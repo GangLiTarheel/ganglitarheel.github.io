@@ -3,6 +3,8 @@ main:
   #- title: "Publications"
   #  url: /publications/
 
+  - title: "Home"
+    url:  /aboutme/
   - title: "Research"
     url: /talks/    
 
@@ -16,7 +18,7 @@ main:
     url: /cv/
     
   - title: "News"
-    url: /archive-layout-with-content.md/
+    url: /archive-layout-with-content/
     
   - title: "Guide"
     url: /markdown/
