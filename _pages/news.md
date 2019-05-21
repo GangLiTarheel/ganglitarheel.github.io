@@ -1,8 +1,7 @@
 ---
 permalink: /news/
 author_profile: true
-redirect_from: 
-  - /news/
+layout: archive
 ---
-
+## News:
 2019.05.21 Hello world!
