@@ -13,9 +13,9 @@ Education
 ======
 * B.Sc. in Mathematics and Applied Math, Beijing University of Posts & Telecomunications, 2016
 * M.S. in Statistics, UNC at Chapel Hill, 2017
-* Ph.D in , GitHub University, 2021 (expected)
+* Ph.D in Interdisciplinary Statistics and Operations Research, UNC at Chapel Hill, 2021 (expected)
 
-[comment]<> (Work experience
+[](Work experience
 ======
 * Summer 2015: Research Assistant
   * Github University
