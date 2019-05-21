@@ -19,7 +19,7 @@ main:
     url: /cv/
     
   - title: "News"
-    url: /archive-layout-with-content/
+    url: /posts/
     
   - title: "Guide"
     url: /markdown/
