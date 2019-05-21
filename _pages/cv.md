@@ -15,7 +15,7 @@ Education
 * M.S. in Statistics, UNC at Chapel Hill, 2017
 * Ph.D in Interdisciplinary Statistics and Operations Research, UNC at Chapel Hill, 2021 (expected)
 
-[](Work experience
+<!--- -Work experience
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -57,4 +57,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
-)
+--->
