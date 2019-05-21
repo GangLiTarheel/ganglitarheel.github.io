@@ -4,7 +4,7 @@ collection: talks
 type: "Contributed Poster"
 permalink: /talks/2018-10-18-ASHG-Poster
 venue: "San Diego Convention Center, 111 West Harbor Drive"
-date: 2013-10-18
+date: 2018-10-18
 location: "San Diego, CA"
 ---
 
