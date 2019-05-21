@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Mathematics and Applied Math, Beijing University of Posts & Telecomunications, 2016
+* M.S. in Statistics, UNC at Chapel Hill, 2017
+* Ph.D in , GitHub University, 2021 (expected)
 
-Work experience
+[comment]<Work experience
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -55,5 +55,5 @@ Teaching
   {% endfor %}</ul>
   
 Service and leadership
-======
+======>
 * Currently signed in to 43 different slack teams
