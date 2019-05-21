@@ -15,7 +15,7 @@ Education
 * M.S. in Statistics, UNC at Chapel Hill, 2017
 * Ph.D in , GitHub University, 2021 (expected)
 
-[comment]<Work experience
+[comment]<> (Work experience
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -55,5 +55,6 @@ Teaching
   {% endfor %}</ul>
   
 Service and leadership
-======>
+======
 * Currently signed in to 43 different slack teams
+)
