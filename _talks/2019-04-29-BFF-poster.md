@@ -2,7 +2,7 @@
 title: "Deep Fiducial Inference and Approximate Fiducial Computation"
 collection: talks
 type: "Contributed Poster"
-permalink: /talks/2019-04-29--BFF-poster
+permalink: /talks/2019-04-29-BFF-poster
 venue: "Penn Pavilion, Duke University"
 date: 2019-04-29
 location: "Durham, NC"
