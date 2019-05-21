@@ -8,6 +8,6 @@ date: 2019-06-01
 location: "Bellevue, WA"
 ---
 
-Receive Student and Early-Career Travel Award!
+Receive [Student and Early-Career Travel Award](https://ww2.amstat.org/meetings/sdss/2019/awards.cfm)!
 Will presente on [2019 Symposium on Data Science & Statistics](https://ww2.amstat.org/meetings/sdss/2019/index.cfm).
 This is a joint work with [Prof. Jan Hannig](https://hannig.cloudapps.unc.edu/).
