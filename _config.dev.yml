@@ -2,8 +2,8 @@
 
 url: http://localhost:4000
 
-analytics:
-  provider: false
+analytics: "google"
+  provider: "google"#false
 
 comments:
   disqus:
