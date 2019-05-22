@@ -11,8 +11,10 @@ redirect_from:
 I am a fourth year Ph.D. student in Interdisciplinary Statistics and Operations Research (INSTORE) with machine learning concentration at UNC at Chapel Hill. I am fortuante to be advised by both [Prof. Jan Hannig](https://hannig.cloudapps.unc.edu/) and [Prof. Yun Li](https://yunliweb.its.unc.edu/). I obtained my M.S. in Statistics from the UNC in 2017 and my B.S. in mathematics and applied mathematics from Beijing University of Posts & Telecomunications in 2016.
 
 ## Contact:
-Department of Statistics and Operations Research\
-University of North Carolina, Chapel Hill\
+Department of Statistics and Operations Research
+
+University of North Carolina, Chapel Hill
+
 Hanes Hall B05
 
 Email: franklee@live.unc.edu 
