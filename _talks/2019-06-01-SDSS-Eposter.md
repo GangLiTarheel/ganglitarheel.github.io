@@ -7,6 +7,7 @@ venue: "Hyatt Regency Bellevue, 900 Bellevue Way"
 date: 2019-06-01
 location: "Bellevue, WA"
 ---
+Read more [Poster](/files/DFI.pdf) 
 
 Receive [Student and Early-Career Travel Award](https://ww2.amstat.org/meetings/sdss/2019/awards.cfm)!
 Will presente on [2019 Symposium on Data Science & Statistics](https://ww2.amstat.org/meetings/sdss/2019/index.cfm).
