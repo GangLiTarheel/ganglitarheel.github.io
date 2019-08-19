@@ -11,7 +11,7 @@ redirect_from:
 I am a fourth year Ph.D. student in Interdisciplinary Statistics and Operations Research (INSTORE) with machine learning concentration at UNC at Chapel Hill. I am fortuante to be advised by both [Prof. Jan Hannig](https://hannig.cloudapps.unc.edu/) and [Prof. Yun Li](https://yunliweb.its.unc.edu/). I obtained my M.S. in Statistics from the UNC in 2017 and my B.S. in mathematics and applied mathematics from Beijing University of Posts & Telecomunications in 2016.
 
 ## Research Interests:
-Deep Fiducial Inference and Approximate Fiduicial Computation
+Deep fiducial inference and approximate fiduicial computation
 <br> Method developement and analysis of DNA methylation data
 <br> Batch effect correction for single-cell RNA sequencing
 <br> Deep learning methods to enhance resolution of HiChIP/PLAC-Seq chromatin 3D organization data
