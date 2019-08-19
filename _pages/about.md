@@ -12,12 +12,9 @@ I am a fourth year Ph.D. student in Interdisciplinary Statistics and Operations 
 
 ## Contact:
 Department of Statistics and Operations Research
-
-University of North Carolina, Chapel Hill
-
-Hanes Hall B05
-
-Email: franklee@live.unc.edu 
+<br> University of North Carolina, Chapel Hill
+<br> Hanes Hall B05
+<br> Email: franklee@live.unc.edu 
 
 <!---
 A data-driven personal website
