@@ -4,7 +4,6 @@ author_profile: true
 layout: archive
 ---
 2019.05.21 Hello world! 
-
 <br> 2018.10 Gang presented a poster on 2018 ASHG meeting.
 <br> 2019.04 Gang presented a poster on 2019 Bayesian, Fiducial, and Frequentist (BFF) Conferences.
 <br> 2019.05 Gang gave a talk on 2019 SAMSI MUMS Transition Workshop.
