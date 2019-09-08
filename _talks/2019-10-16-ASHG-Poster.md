@@ -1,5 +1,5 @@
 ---
-title: "Across-Platforms Imputation for DNA Methylation Levels"
+title: "Ensemble Imputation for DNA Methylation Levels Across Platforms"
 collection: talks
 type: "Contributed Poster"
 permalink: /talks/2019-10-16-ASHG-Poster
