@@ -8,6 +8,6 @@ date: 2019-10-16
 location: "Houston, TX"
 ---
 
-Presented on [2019 American Society of Human Genetics Annual Meeting](https://www.ashg.org/2019meeting/).
+Presented at [2019 American Society of Human Genetics Annual Meeting](https://www.ashg.org/2019meeting/).
 This is a joint work with [Prof. Yun Li](https://yunliweb.its.unc.edu/) et. al.
 
