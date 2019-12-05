@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth year Ph.D. student in Interdisciplinary Statistics and Operations Research (INSTORE) with machine learning concentration at UNC at Chapel Hill. I am fortuante to be advised by both [Prof. Jan Hannig](https://hannig.cloudapps.unc.edu/) and [Prof. Yun Li](https://yunliweb.its.unc.edu/). I obtained my M.S. in Statistics from the UNC in 2017 and my B.S. in mathematics and applied mathematics from Beijing University of Posts & Telecomunications in 2016.
+I am a fourth year Ph.D. candidate in Interdisciplinary Statistics and Operations Research (INSTORE) with machine learning concentration at UNC at Chapel Hill. I am fortuante to be advised by both [Prof. Jan Hannig](https://hannig.cloudapps.unc.edu/) and [Prof. Yun Li](https://yunliweb.its.unc.edu/). I obtained my M.S. in Statistics from the UNC in 2017 and my B.S. in mathematics and applied mathematics from Beijing University of Posts & Telecomunications in 2016.
 
 ## Research Interests:
 Deep fiducial inference and approximate fiduicial computation
