@@ -14,5 +14,6 @@ layout: archive
 <br> 2019.08 Gang completed the Foundation of Data Science (FDS) Summer School 2019 at the Georgia Institute of Technology (Lodging funded by the summer school). 
 <br> 2019.10 Gang presented a poster at 2019 ASHG meeting in Houston, TX.
 <br> 2019.10 Yuchen gave an oral presentation of our joint work at 2019 ASHG meeting in Houston, TX. 
+<br> 2019.12 Gang passed the preliminary oral defense and became a formal Ph.D. candidate.
 <br> 2020.02 Gang will present on 2020 Conference on Statistical Practice in Sacramento, CA.
  
