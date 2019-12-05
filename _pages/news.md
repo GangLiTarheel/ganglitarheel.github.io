@@ -15,5 +15,5 @@ layout: archive
 <br> 2019.10 Gang presented a poster at 2019 ASHG meeting in Houston, TX.
 <br> 2019.10 Yuchen gave an oral presentation of our joint work at 2019 ASHG meeting in Houston, TX. 
 <br> 2019.12 Gang passed the preliminary oral defense and became a formal Ph.D. candidate!
-<br> 2020.02 Gang will give a 45 mins talk on 2020 Conference on Statistical Practice in Sacramento, CA.
+<br> 2020.02 Gang will give a talk on 2020 Conference on Statistical Practice in Sacramento, CA.
  
