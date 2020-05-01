@@ -15,11 +15,11 @@ layout: archive
 <br> 2019.10 Gang presented a poster at 2019 ASHG meeting in Houston, TX.
 <br> 2019.10 Yuchen gave an oral presentation of our joint work at 2019 ASHG meeting in Houston, TX. 
 <br> 2019.12 Gang passed the preliminary oral defense and became a formal Ph.D. candidate!
-<br> 2019.12 Our review paper ["Dropout Imputation and Batch Effect Correction for Single-Cell RNA-seq Data"](10.1097/JBR.0000000000000053) got accepted by Journal of Bio-X Research. 
+<br> 2019.12 Our review paper, ["Dropout Imputation and Batch Effect Correction for Single-Cell RNA-seq Data"](https://journals.lww.com/jbioxresearch/Fulltext/2019/12000/Dropout_imputation_and_batch_effect_correction_for.4.aspx), got accepted by Journal of Bio-X Research. 
 <br> 2020.02 Gang would give a talk on 2020 Conference on Statistical Practice in Sacramento, CA.
 <br> 2020.02 Gang received Graduate Student Transportation Award from UNC Chapel Hill.
 <br> 2020.03 Gang received The Raj Chandra Bose Graduate Travel Fund, and gave a talk at 2020 ENAR spring meeting (Virtual Meeting due to COVID-19).
-<br> 2020.05 Our paper, ["SMNN: Batch Effect Correction for Single-cell RNA-seq data via Supervised Mutual Nearest Neighbor Detection"](https://doi.org/10.1101/672261), got accepted by Briefings in Bioinformatics.  
+<br> 2020.05 Our paper, ["SMNN: Batch Effect Correction for Single-cell RNA-seq data via Supervised Mutual Nearest Neighbor Detection"](https://doi.org/10.1101/672261), got accepted by Briefings in Bioinformatics.
 <br> 2020.08 Gang will give a talk aobut SMNN on JSM.
 
  
