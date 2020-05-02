@@ -1,20 +1,12 @@
 ---
-title: "Teaching experience 1"
+title: "ntroduction to Data Analysis (STOR 151)"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/2017-spring-teaching-1
+venue: "UNC at Chapel Hill, STOR"
+date: 2017-01 -- 2017-05
+location: "Chapel Hill, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Served as an teaching assistant, graded the homework for the course.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======

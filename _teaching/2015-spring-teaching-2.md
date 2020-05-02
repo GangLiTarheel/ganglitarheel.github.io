@@ -1,14 +1,16 @@
 ---
-title: "Teaching experience 2"
+title: "Introduction to Data Models and Inference (STOR 155)"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate course"
+permalink: /teaching/2020-spring-teaching-1
+venue: "UNC at Chapel Hill, STOR"
+date: 2020-01 -- 2020-05
+location: "Chapel Hill, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Served as an teaching assistant for 4 sections (>300 students).
+
+Held tutorial session and the recitations every week.
 
 Heading 1
 ======

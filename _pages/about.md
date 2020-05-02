@@ -23,7 +23,7 @@ Batch effect correction for single-cell RNA sequencing
 <br> SV calling from whole genome sequencing data
 
 ### Epigenetics:
-<br> Method developement and analysis of DNA methylation data
+Method developement and analysis of DNA methylation data
 
 
 ## Contact:
