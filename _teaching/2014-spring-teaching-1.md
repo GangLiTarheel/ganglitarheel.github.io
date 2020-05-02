@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2017-spring-teaching-1
 venue: "UNC at Chapel Hill, STOR"
-date: 2017-01 -- 2017-05
+date: 2017-01
 location: "Chapel Hill, USA"
 ---
 
