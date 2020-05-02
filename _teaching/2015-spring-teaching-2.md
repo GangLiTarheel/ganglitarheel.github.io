@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Data Models and Inference (STOR 155)"
+title: "(2020 spring) Introduction to Data Models and Inference (STOR 155)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2020-spring-teaching-1
@@ -8,15 +8,5 @@ date: 2020-01-10
 location: "Chapel Hill, USA"
 ---
 
-Served as an teaching assistant for 4 sections (>300 students).
+Served as an teaching assistant for 4 sections (>300 students). Held office hours and tutorial sessions every week.
 
-Held tutorial session and the recitations every week.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
