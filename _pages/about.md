@@ -13,14 +13,15 @@ I am a fifth year Ph.D. candidate in Interdisciplinary Statistics and Operations
 ## Research Interests:
 ### Statistics Inference:
 
-Deep fiducial inference and approximate fiduicial computation
-<br> Inverse solutions for generalized ficuial inference
+Generalized ficuial inference
+<br> Deep fiducial inference and approximate fiduicial computation
 <br> First order approximate fiducial inference
 
 ### Bioinformatics:
 Batch effect correction for single-cell RNA sequencing
-<br> Deep learning methods to enhance resolution of HiChIP/PLAC-Seq chromatin 3D organization data
-<br> SV calling from whole genome sequencing data
+<br> DL methods to enhance GWAS signals
+<br> DL methods to enhance resolution of HiChIP/PLAC-Seq chromatin 3D organization data
+<br> Structual variant calling from whole genome sequencing data
 
 ### Epigenetics:
 Method developement and analysis of DNA methylation data
