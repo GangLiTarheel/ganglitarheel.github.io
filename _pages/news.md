@@ -20,7 +20,8 @@ layout: archive
 <br> 2020.02 Gang received Graduate Student Transportation Award from UNC Chapel Hill.
 <br> 2020.03 Gang received The Raj Chandra Bose Graduate Travel Fund, and gave a talk at 2020 ENAR spring meeting (Virtual Meeting due to COVID-19).
 <br> 2020.05 Our paper, ["SMNN: Batch Effect Correction for Single-cell RNA-seq data via Supervised Mutual Nearest Neighbor Detection"](https://doi.org/10.1101/672261), got accepted by Briefings in Bioinformatics.
-<br> 2020.06 Gang will join Wells Fargo as a quantitative associate intern of Decision Science Artificial Intelligence (DSAI) team in this summer.
-<br> 2020.08 Gang will give a talk on SMNN at 2020 JSM (Virtual Meeting due to COVID-19).
+<br> 2020.06 Gang joined Wells Fargo as a quantitative anlytic intern of Decision Science Artificial Intelligence (DSAI) team in this summer.
+<br> 2020.08 Gang gave a talk on SMNN at 2020 JSM (Virtual Meeting due to COVID-19).
+<br> 2020.10 Gang will present a poster at 2020 ASHG virtual meeting.
 
  
