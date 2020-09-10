@@ -23,6 +23,7 @@ layout: archive
 <br> 2020.06 Gang joined Wells Fargo as a quantitative anlytic intern of Decision Science Artificial Intelligence (DSAI) team in this summer.
 <br> 2020.07 Our paper, ["Deep Fiducial Inference"](https://arxiv.org/abs/2007.04285), got accepted by STAT.
 <br> 2020.08 Gang gave a talk on SMNN at 2020 JSM (Virtual Meeting due to COVID-19).
-<br> 2020.10 Gang will present a poster at 2020 ASHG virtual meeting.
+<br> 2020.09 Our paper, ["CUE: CpG impUtation Ensemble for DNA Methylation Levels Across the Human Methylation450 (HM450) and EPIC (HM850) BeadChip Platforms"](https://doi.org/10.1101/2020.05.30.107094), got accepted by Epigenetics.
+<br> 2020.10 Gang will present a poster on "DeepGWAS to Enhance GWAS Signals for Neuropsychiatric Disorders via Deep Neural Network" at 2020 ASHG virtual meeting. Our abstract has been selected as reviewer's choice (~10%).
 
  
