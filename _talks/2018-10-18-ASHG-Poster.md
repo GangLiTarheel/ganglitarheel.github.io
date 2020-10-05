@@ -8,6 +8,6 @@ date: 2018-10-18
 location: "San Diego, CA"
 ---
 
-Presented at [2018 American Society of Human Genetics Annual Meeting](http://www.ashg.org/2018meeting/).
+Presented at [2018 American Society of Human Genetics Annual Meeting](http://www.ashg.org/2018meeting/). See more info [here](https://www.abstractsonline.com/pp8/\#!/9070/presentation/3193). 
 This is a joint work with [Prof. Yun Li](https://yunliweb.its.unc.edu/) et. al.
 

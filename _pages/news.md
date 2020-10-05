@@ -21,9 +21,9 @@ layout: archive
 <br> 2020.03 Gang received The Raj Chandra Bose Graduate Travel Fund, and gave a talk at 2020 ENAR spring meeting (Virtual Meeting due to COVID-19).
 <br> 2020.05 Our paper, ["SMNN: Batch Effect Correction for Single-cell RNA-seq data via Supervised Mutual Nearest Neighbor Detection"](https://doi.org/10.1101/672261), got accepted by Briefings in Bioinformatics.
 <br> 2020.06 Gang joined Wells Fargo as a quantitative analytic intern of Decision Science Artificial Intelligence (DSAI) group in this summer.
-<br> 2020.07 Our paper, ["Deep Fiducial Inference"](https://arxiv.org/abs/2007.04285), got accepted by STAT.
+<br> 2020.07 Our paper, ["Deep Fiducial Inference"](https://doi.org/10.1002/sta4.308), got accepted by STAT.
 <br> 2020.08 Gang gave a talk on SMNN at 2020 JSM (Virtual Meeting due to COVID-19).
-<br> 2020.09 Our paper, ["CUE: CpG impUtation Ensemble for DNA Methylation Levels Across the Human Methylation450 (HM450) and EPIC (HM850) BeadChip Platforms"](https://doi.org/10.1101/2020.05.30.107094), got accepted by Epigenetics.
-<br> 2020.10 Gang will present a poster on "DeepGWAS to Enhance GWAS Signals for Neuropsychiatric Disorders via Deep Neural Network" at 2020 ASHG virtual meeting. Our abstract has been selected as reviewer's choice (~10%).
-
+<br> 2020.09 Our paper, ["CUE: CpG impUtation Ensemble for DNA Methylation Levels Across the Human Methylation450 (HM450) and EPIC (HM850) BeadChip Platforms"](https://doi.org/10.1080/15592294.2020.1827716), got accepted by Epigenetics.
+<br> 2020.10 Gang will present an eposter on ["DeepGWAS to Enhance GWAS Signals for Neuropsychiatric Disorders via Deep Neural Network"](https://www.abstractsonline.com/pp8/\#!/9070/presentation/3193) at 2020 ASHG virtual meeting. Our abstract has been selected as reviewer's choice (~10%).
+<br> 2020.10 Le will present our work,["Leveraging deep learning methods developed for Hi-C data to enhance resolution of HiChIP/PLAC-seq data"](https://www.abstractsonline.com/pp8/\#!/9070/presentation/1822), as an eposter at 2020 ASHG virtual meeting. Our abstract has been selected as reviewer's choice (~10%). Congrats, Le!
  
