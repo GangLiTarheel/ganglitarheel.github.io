@@ -8,5 +8,5 @@ date: 2020-08-10
 location: "Chapel Hill, USA"
 ---
 
-Served as an teaching assistant. Held office hours weekly and graded homework.
+Served as a teaching assistant. Held office hours weekly and graded homework.
 

@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth year Ph.D. candidate in Interdisciplinary Statistics and Operations Research (INSTORE) with machine learning concentration at UNC at Chapel Hill. I am fortuante to be advised by both [Prof. Jan Hannig](https://hannig.cloudapps.unc.edu/) and [Prof. Yun Li](https://yunliweb.its.unc.edu/). I obtained my M.S. in Statistics from the UNC in 2017 and my B.S. in mathematics and applied mathematics from Beijing University of Posts & Telecomunications in 2016.
+I am a fifth year Ph.D. candidate in Interdisciplinary Statistics and Operations Research (INSTORE) with machine learning concentration at UNC at Chapel Hill. I am fortunate to be advised by both [Prof. Jan Hannig](https://hannig.cloudapps.unc.edu/) and [Prof. Yun Li](https://yunliweb.its.unc.edu/). I obtained my M.S. in Statistics from the UNC in 2017 and my B.S. in mathematics and applied mathematics from Beijing University of Posts & Telecomunications in 2016.
 
 ## Research Interests:
 ### Statistics Inference:
@@ -18,13 +18,14 @@ Generalized ficuial inference
 <br> First order approximate fiducial inference
 
 ### Bioinformatics:
-Batch effect correction for single-cell RNA sequencing
-<br> DL methods to enhance GWAS signals
-<br> DL methods to enhance resolution of HiChIP/PLAC-Seq chromatin 3D organization data
-<br> Structual variant calling from whole genome sequencing data
+Single-cell RNA sequencing
+<br> Genome-wide Association Studies
+<br> Cell type deconvolution of bulk gene expression
+<br> Structual variation, copy number variation
 
 ### Epigenetics:
-Method developement and analysis of DNA methylation data
+DNA methylation 
+<br> HiC, HiChIP/PLAC-Seq chromatin 3D organization data
 
 
 ## Contact:

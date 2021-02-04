@@ -8,5 +8,5 @@ date: 2017-01-10
 location: "Chapel Hill, USA"
 ---
 
-Served as an teaching assistant, graded the homework for the course.
+Served as a teaching assistant, graded the homework for the course.
 

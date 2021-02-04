@@ -8,5 +8,5 @@ date: 2020-01-10
 location: "Chapel Hill, USA"
 ---
 
-Served as an teaching assistant for 4 sections (>300 students). Held office hours and tutorial sessions every week.
+Served as a teaching assistant for 4 sections (>300 students). Held office hours and tutorial sessions every week.
 
