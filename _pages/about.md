@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I will join Univerity of Washtington as UW Data Science Postdoctoral Fellow under the supervision of [Prof. Bill Noble](https://noble.gs.washington.edu/~wnoble/) in this May.
+I will join Univerity of Washtington as UW Data Science Postdoctoral Fellow under the supervision of [Prof. Bill Noble](https://noble.gs.washington.edu/~wnoble/) in this Summer. My postdoctoral work focuses on developing machine learning methods for interpreting high-throughput genomic data sets with respect to 3D genome architecture, with a particular emphasis on embryonic development in mouse.
 
 
 I am a fifth year Ph.D. candidate in Interdisciplinary Statistics and Operations Research (INSTORE) with machine learning concentration at UNC at Chapel Hill. I am fortunate to be advised by both [Prof. Jan Hannig](https://hannig.cloudapps.unc.edu/) and [Prof. Yun Li](https://yunliweb.its.unc.edu/). I obtained my M.S. in Statistics from the UNC in 2017 and my B.S. in mathematics and applied mathematics from Beijing University of Posts & Telecomunications in 2016.
@@ -32,13 +32,15 @@ DNA methylation
 
 
 ## Contact:
+Department of Genome Sciences & eScience Institute
+<br> University of Washington, Seattle
+<br> Email: gangli@uw.edu 
+
 Department of Statistics and Operations Research
 <br> University of North Carolina, Chapel Hill
 <br> Email: franklee@live.unc.edu 
 
-Department of Genome Sciences & eScience Institute
-<br> University of Washington, Seattle
-<br> Email: gangli@uw.edu 
+
 
 
 <!---

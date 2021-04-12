@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Gang Li"
 title_separator          : "-"
 name                     : &name "Gang Li"
-description              : &description "Ph.D. Candidate <br/> UNC at Chapel-Hill"
+description              : &description "Incoming UW Data Science Postdoctoral Science Fellow <br/> UW at Seattle"
 url                      : https://ganglitarheel.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ganglitarheel.github.io"
@@ -82,12 +82,12 @@ social:
 author:
   name             : "Gang Li"
   avatar           : "DSC_0001.JPG"
-  bio              : "Ph.D. Candidate <br/> UNC at Chapel Hill"
-  location         : "Chapel Hill, NC"
-  employer         : #"UNC at Chapel Hill"
+  bio              : "Incoming UW Data Science Postdoctoral Science Fellow"
+  location         : "Bellevue, WA"
+  employer         : "UW at Seattle"
   pubmed           : 
   googlescholar    : 
-  email            :  "franklee@live.unc.edu"
+  email            :  "gangli@uw.edu"#"franklee@live.unc.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
