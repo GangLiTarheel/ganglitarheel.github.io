@@ -8,5 +8,5 @@ date: 2021-01-10
 location: "Chapel Hill, USA"
 ---
 
-Served as a teaching assistant. Grade homeworks and held office hours weekly.
+Served as a teaching assistant. Graded homeworks and held office hours weekly.
 First graduate-level computation course in STOR department in my Ph.D. study. I am excited to be part of it.

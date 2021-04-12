@@ -8,6 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+I will join Univerity of Washtington as UW Data Science Postdoctoral Fellow under the supervision of [Prof. Bill Noble](https://noble.gs.washington.edu/~wnoble/) in this May.
+
+
 I am a fifth year Ph.D. candidate in Interdisciplinary Statistics and Operations Research (INSTORE) with machine learning concentration at UNC at Chapel Hill. I am fortunate to be advised by both [Prof. Jan Hannig](https://hannig.cloudapps.unc.edu/) and [Prof. Yun Li](https://yunliweb.its.unc.edu/). I obtained my M.S. in Statistics from the UNC in 2017 and my B.S. in mathematics and applied mathematics from Beijing University of Posts & Telecomunications in 2016.
 
 ## Research Interests:
@@ -19,8 +22,8 @@ Generalized ficuial inference
 
 ### Bioinformatics:
 Single-cell RNA sequencing
-<br> Genome-wide Association Studies
-<br> Cell type deconvolution of bulk gene expression
+<br> Genome-wide association Studies
+<br> Bulk deconvolution, cell type specific analyses
 <br> Structual variation, copy number variation
 
 ### Epigenetics:
@@ -31,8 +34,12 @@ DNA methylation
 ## Contact:
 Department of Statistics and Operations Research
 <br> University of North Carolina, Chapel Hill
-<br> Hanes Hall B05
 <br> Email: franklee@live.unc.edu 
+
+Department of Genome Sciences & eScience Institute
+<br> University of Washington, Seattle
+<br> Email: gangli@uw.edu 
+
 
 <!---
 A data-driven personal website

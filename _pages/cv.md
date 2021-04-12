@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+Professional Experience
+======
+* UW Data Science Postdotoral Fellowship, Univerity of Washington at Seattle, 2021 May -
+
+
 Education
 ======
 * B.Sc. in Mathematics and Applied Math, Beijing University of Posts & Telecomunications, 2016
