@@ -29,4 +29,5 @@ layout: archive
 <br> 2020.11 Gang gave two job talks at Univesity of Washington for postdoctoral positions.
 <br> 2021.03 Gang successfully passed public oral defense.
 <br> 2021.03 Our paper, ["iSMNN: Batch Effect Correction for Single-cell RNA-seq data via Iterative Supervised Mutual Nearest Neighbor Refinement"](https://www.biorxiv.org/content/10.1101/2020.11.09.375659v2), got accepted by Briefings in Bioinformatics.
-<br> 2021.05 Gang will join Univerity of Washtington as UW Data Science Postdoctoral Fellow in this May.
+<br> 2021.05 Gang graduated form UNC at Chapel Hill with his doctoral degree.
+<br> 2021.05 Gang will join Univerity of Washtington as UW Data Science Postdoctoral Fellow.

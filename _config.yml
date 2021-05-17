@@ -86,7 +86,7 @@ author:
   location         : "Seattle, WA"
   employer         : "University of Washington"
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=t1a1AwUAAAAJ&hl=en"
   email            :  "gangli@uw.edu"#"franklee@live.unc.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : "FrankLeeGangLi" #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :

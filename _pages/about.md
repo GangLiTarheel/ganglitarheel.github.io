@@ -11,7 +11,7 @@ redirect_from:
 I will join Univerity of Washtington as UW Data Science Postdoctoral Fellow under the supervision of [Prof. Bill Noble](https://noble.gs.washington.edu/~wnoble/) in this Summer. My postdoctoral work focuses on developing machine learning methods for interpreting high-throughput genomic data sets with respect to 3D genome architecture, with a particular emphasis on embryonic development in mouse.
 
 
-I am a fifth year Ph.D. candidate in Interdisciplinary Statistics and Operations Research (INSTORE) with machine learning concentration at UNC at Chapel Hill. I am fortunate to be advised by both [Prof. Jan Hannig](https://hannig.cloudapps.unc.edu/) and [Prof. Yun Li](https://yunliweb.its.unc.edu/). I obtained my M.S. in Statistics from the UNC in 2017 and my B.S. in mathematics and applied mathematics from Beijing University of Posts & Telecomunications in 2016.
+I got my Ph.D. in interdisciplinary statistics and operations research (INSTORE) with machine learning concentration at UNC at Chapel Hill in 2021. I was fortunate to be advised by both [Prof. Jan Hannig](https://hannig.cloudapps.unc.edu/) and [Prof. Yun Li](https://yunliweb.its.unc.edu/). I obtained my M.S. in Statistics at UNC at the Chapel Hill in 2017 and my B.S. in mathematics and applied mathematics at Beijing University of Posts & Telecomunications in 2016.
 
 ## Research Interests:
 ### Statistics Inference:
