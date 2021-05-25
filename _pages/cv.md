@@ -11,7 +11,7 @@ redirect_from:
 
 Professional Experience
 ======
-* UW Data Science Postdotoral Fellowship, Univerity of Washington at Seattle, 2021 May -
+* UW Data Science Postdotoral Fellowship, Univerity of Washington at Seattle, 2021 May - Current
 
 
 Education
