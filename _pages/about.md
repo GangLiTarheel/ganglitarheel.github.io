@@ -8,23 +8,28 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an UW Data Science Postdoctoral Fellow under the supervision of [Prof. Bill Noble](https://noble.gs.washington.edu/~wnoble/) at Univerity of Washtington. My postdoctoral work focuses on developing machine learning methods for interpreting high-throughput genomic data sets with respect to 3D genome architecture, with a particular emphasis on embryonic development in mouse.
+I am currently an UW Data Science Postdoctoral Fellow under the supervision of [Prof. Bill Noble](https://noble.gs.washington.edu/~wnoble/) at Univerity of Washtington. My postdoctoral work focuses on developing machine learning methods for interpreting high-throughput genomic data sets with respect to 3D genome architecture, with a particular emphasis on embryonic development in mouse. Currently I am working on integration of imaging and sequencing data from visual cell sorting.
 
 
 I got my Ph.D. in interdisciplinary statistics and operations research (INSTORE) with machine learning concentration at UNC at Chapel Hill in 2021. I was fortunate to be advised by both [Prof. Jan Hannig](https://hannig.cloudapps.unc.edu/) and [Prof. Yun Li](https://yunliweb.its.unc.edu/). I obtained my M.S. in Statistics at UNC at the Chapel Hill in 2017 and my B.S. in mathematics and applied mathematics at Beijing University of Posts & Telecomunications in 2016.
 
 ## Research Interests:
-### Statistics Inference:
 
+### Computational Biology:
+Integration of imaging and sequencing data
+<br> Single-cell RNA sequencing
+<br> Bulk deconvolution, cell type specific analyses
+
+
+### Bioinformatics:
+Genome-wide association studies
+<br> Bulk deconvolution, cell type specific analyses
+<br> Structual variation, copy number variation
+
+### Statistics Inference:
 Generalized ficuial inference
 <br> Deep fiducial inference and approximate fiduicial computation
 <br> First order approximate fiducial inference
-
-### Bioinformatics:
-Single-cell RNA sequencing
-<br> Genome-wide association Studies
-<br> Bulk deconvolution, cell type specific analyses
-<br> Structual variation, copy number variation
 
 ### Epigenetics:
 DNA methylation 
