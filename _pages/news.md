@@ -31,3 +31,6 @@ layout: archive
 <br> 2021.03 Our paper, ["iSMNN: Batch Effect Correction for Single-cell RNA-seq data via Iterative Supervised Mutual Nearest Neighbor Refinement"](https://pubmed.ncbi.nlm.nih.gov/33839756/), got accepted by Briefings in Bioinformatics.
 <br> 2021.05 Gang graduated form UNC at Chapel Hill with his doctoral degree.
 <br> 2021.05 Gang joined Bill Noble's lab at Univerity of Washtington as UW Data Science Postdoctoral Fellow.
+<br> 2021.06 Gang gave a seminar talk, "Integration of imaging and sequencing data in the context of visual cell sorting", at UW 4D-Genome Meeting. 
+<br> 2021.06 Gang's dissertation, ["Coupling Machine Learning with Fiducial Inference, Genetics and Epigenetics"](https://www.proquest.com/docview/2546056928/abstract/12FD502C3E444B0FPQ), got published.
+<br> 2021.07 Our book chapter ["Machine Learning and Deep Learning in Genetics and Genomics"](https://link.springer.com/chapter/10.1007/978-3-030-71881-7_13) got published in the book ["Machine Learning in Dentistry"](https://link.springer.com/book/10.1007/978-3-030-71881-7), Springer, Cham. 
