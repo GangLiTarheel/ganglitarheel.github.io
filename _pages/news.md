@@ -27,7 +27,7 @@ layout: archive
 <br> 2020.10 Gang presented an E-poster on ["DeepGWAS to Enhance GWAS Signals for Neuropsychiatric Disorders via Deep Neural Network"](https://www.abstractsonline.com/pp8/\#!/9070/presentation/3193) at 2020 ASHG virtual meeting. Our abstract has been selected as the reviewer's choice award(~10%).
 <br> 2020.10 Le presented our work,["Leveraging deep learning methods developed for Hi-C data to enhance resolution of HiChIP/PLAC-seq data"](https://www.abstractsonline.com/pp8/\#!/9070/presentation/1822), as an E-poster at 2020 ASHG virtual meeting. Our abstract has been selected as the reviewer's choice award(~10%). Congrats, Le!
 <br> 2020.11 Gang gave two job talks at Univesity of Washington for postdoctoral positions.
-<br> 2021.03 Gang successfully passed public oral defense.
+<br> 2021.03 Gang successfully passed the public oral defense.
 <br> 2021.03 Our paper, ["iSMNN: Batch Effect Correction for Single-cell RNA-seq data via Iterative Supervised Mutual Nearest Neighbor Refinement"](https://pubmed.ncbi.nlm.nih.gov/33839756/), got accepted by Briefings in Bioinformatics.
 <br> 2021.05 Gang graduated form UNC at Chapel Hill with his doctoral degree.
 <br> 2021.05 Gang joined Bill Noble's lab at Univerity of Washtington as UW Data Science Postdoctoral Fellow.

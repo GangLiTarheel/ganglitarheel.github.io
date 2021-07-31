@@ -6,3 +6,4 @@ permalink: /talks/2021-06-29-UW-4DGenome-Talk
 date: 2021-06-29
 location: "WA"
 ---
+Gang presented at [UW 4D-Genome](https://uw-4dgenome.org/) Meeting. 
