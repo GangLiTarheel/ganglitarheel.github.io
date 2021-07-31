@@ -37,13 +37,10 @@ DNA methylation
 
 
 ## Contact:
-Department of Genome Sciences & eScience Institute
+[Department of Genome Sciences](https://www.gs.washington.edu/) & [eScience Institute](https://escience.washington.edu/)
 <br> University of Washington, Seattle
 <br> Email: gangliuw@uw.edu 
 
-Department of Statistics and Operations Research
-<br> University of North Carolina, Chapel Hill
-<br> Email: franklee@live.unc.edu 
 
 
 
