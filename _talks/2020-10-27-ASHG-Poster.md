@@ -6,6 +6,6 @@ permalink: /talks/2020-10-27-ASHG-Poster
 date: 2020-10-27
 ---
 
-Will present at [2020 American Society of Human Genetics Annual Meeting](https://www.ashg.org/2020meeting/). Our abstract has been selected as reviewer's choice (~10%).
+Presented at [2020 American Society of Human Genetics Annual Meeting](https://www.ashg.org/2020meeting/). Our abstract has been selected as reviewer's choice (~10%).
 This is a joint work with [Prof. Yun Li](https://yunliweb.its.unc.edu/) et. al.
 
