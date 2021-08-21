@@ -23,7 +23,6 @@ Integration of imaging and sequencing data
 
 ### Bioinformatics:
 Genome-wide association studies
-<br> Bulk deconvolution, cell type specific analyses
 <br> Structual variation, copy number variation
 
 ### Statistics Inference:
