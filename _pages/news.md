@@ -3,7 +3,7 @@ permalink: /news/
 author_profile: true
 layout: archive
 ---
-2021.08 The research article, ["iExpressHeart: Web Portal to Visualize Transcriptome Profiles of Non-cardiomyocyte Cells"](https://www.mdpi.com/1422-0067/22/16/8943), that Gang first-authored, got published in International Journal of Molecular Sciences.
+2021.08 The research article, ["ExpressHeart: Web Portal to Visualize Transcriptome Profiles of Non-cardiomyocyte Cells"](https://www.mdpi.com/1422-0067/22/16/8943), that Gang first-authored, got published in International Journal of Molecular Sciences.
 <br> 2021.07 The book chapter ["Machine Learning and Deep Learning in Genetics and Genomics"](https://link.springer.com/chapter/10.1007/978-3-030-71881-7_13), that Gang co-authored, got published in the book ["Machine Learning in Dentistry"](https://link.springer.com/book/10.1007/978-3-030-71881-7), Springer, Cham. 
 <br> 2021.06 Gang's dissertation, ["Coupling Machine Learning with Fiducial Inference, Genetics and Epigenetics"](https://www.proquest.com/docview/2546056928/abstract/12FD502C3E444B0FPQ), got published.
 <br> 2021.06 Gang gave a seminar talk, "Integration of imaging and sequencing data in the context of visual cell sorting", at UW 4D-Genome Meeting. 
