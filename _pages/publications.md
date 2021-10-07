@@ -20,6 +20,8 @@ You can also find my articles on my <u><a href="https://scholar.google.com/citat
 --->
 <ol>
 
+<li> Ren, X., Wang, M., ..., <b>Li, G.</b>, ..., Shen, Y. (2021) <a href="https://www.science.org/doi/10.1126/sciadv.abi4360"> Parallel characterization of cis-regulatory elements for multiple genes using CRISPRpath.  </a> Science Advances. 2021 Sep;7(38):eabi4360. DOI: 10.1126/sciadv.abi4360. PMID: 34524848; PMCID: PMC8443183. </li>
+
 <li> <b>Li, G.*</b>, Luan, C.*, Zentz, S., Zelt, R., Roach, J., Liu, J., Qian, L., Li, Y., Yang, Y. (2021). <a href="https://www.mdpi.com/1422-0067/22/16/8943"> ExpressHeart: Web Portal to Visualize Transcriptome Profiles of Non-cardiomyocyte Cells.</a>  International Journal of Molecular Sciences, 2021; 22(16):8943.  <a href="http://shiny.bios.unc.edu/expressheart/"> [Web] </a> </li>
 
 <li> Yang,  Y., <b>Li,  G.</b>,  Xie,  Y.,  Wang,  L.,  Liu,  J.,  Qian,  L.,  Li,  Y.  (2021). <a href="https://doi.org/10.1093/bib/bbab122"> iSMNN: Batch   Effect   Correction   for   Single-cell   RNA-seq   data   via   Iterative   Supervised   Mu-tual   Nearest   Neighbor   Refinement.</a>
