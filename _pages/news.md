@@ -3,7 +3,9 @@ permalink: /news/
 author_profile: true
 layout: archive
 ---
-2021.09 The research article, ["Parallel characterization of cis-regulatory elements for multiple genes using CRISPRpath"](https://www.science.org/doi/10.1126/sciadv.abi4360), that Gang co-authored, got published in Science Advances.
+2021.12 Gang presented a poster, "Integration of imaging and sequencing data in the context of visual cell sorting", at 2021 4DN Annual Meeting. 
+<br>2021.10 Jia presented our work, ["Genome-wide association study of coronary heart disease in chronic kidney disease: the Chronic Renal Insufficiency Cohort (CRIC) study."](https://eventpilotadmin.com/web/page.php?page=Session&project=ASHG21&id=P2191), as an E-poster at 2021 ASHG virtual meeting. Congrats, Jia!
+<br>2021.09 The research article, ["Parallel characterization of cis-regulatory elements for multiple genes using CRISPRpath"](https://www.science.org/doi/10.1126/sciadv.abi4360), that Gang co-authored, got published in Science Advances.
 <br>2021.08 The research article, ["ExpressHeart: Web Portal to Visualize Transcriptome Profiles of Non-cardiomyocyte Cells"](https://www.mdpi.com/1422-0067/22/16/8943), that Gang co-first-authored, got published in International Journal of Molecular Sciences.
 <br> 2021.07 The book chapter ["Machine Learning and Deep Learning in Genetics and Genomics"](https://link.springer.com/chapter/10.1007/978-3-030-71881-7_13), that Gang co-authored, got published in the book ["Machine Learning in Dentistry"](https://link.springer.com/book/10.1007/978-3-030-71881-7), Springer, Cham. 
 <br> 2021.06 Gang's dissertation, ["Coupling Machine Learning with Fiducial Inference, Genetics and Epigenetics"](https://www.proquest.com/docview/2546056928/abstract/12FD502C3E444B0FPQ), got published.
