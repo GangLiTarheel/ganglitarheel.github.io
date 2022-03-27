@@ -80,6 +80,6 @@ Note: * means co-first author.
     A systematic evaluation of Hi-C data enhancement methods for enhancing PLAC-seq and HiChIP data. (Submitted)  </li> 
 
 <li>  Laetitia Meng-Papaxanthos, Ran Zhang, <b>Li, G.</b>, Marco Cuturi, William Stafford Noble, Jean-Philippe Vert (2022+).
-    <a href="https://www.biorxiv.org/content/10.1101/2022.03.23.485536v1.full.pdf+html">LSMMD-MA: Scaling multimodal data integration for single-cell genomics data analysis.</a> (Submitted)
+    <a href="https://www.biorxiv.org/content/10.1101/2022.03.23.485536v1.full.pdf+html">LSMMD-MA: Scaling multimodal data integration for single-cell genomics data analysis.</a> (Submitted) <a href="https://pypi.org/project/lsmmdma/"> [Code] </a>
     </li> 
 </ol>
