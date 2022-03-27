@@ -17,7 +17,6 @@ I got my Ph.D. in interdisciplinary statistics and operations research (INSTORE)
 
 ### Computational Biology:
 Integration of imaging and sequencing data
-<br> Integration of imaging and sequencing data
 <br> Single-cell RNA sequencing
 <br> Single-cell ATAC sequencing analyses
 <br> Allelic Expression Analysis
