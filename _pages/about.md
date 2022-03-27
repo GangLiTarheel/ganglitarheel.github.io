@@ -17,13 +17,14 @@ I got my Ph.D. in interdisciplinary statistics and operations research (INSTORE)
 
 ### Computational Biology:
 Integration of imaging and sequencing data
+<br> Integration of imaging and sequencing data
 <br> Single-cell RNA sequencing
-<br> Bulk deconvolution, cell type specific analyses
-
+<br> Single-cell ATAC sequencing analyses
+<br> Allelic Expression Analysis
 
 ### Bioinformatics:
 Genome-wide association studies
-<br> Structual variation, copy number variation
+<br> Bulk deconvolution, cell type specific analyses
 
 ### Statistics Inference:
 Generalized ficuial inference

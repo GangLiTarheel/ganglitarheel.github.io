@@ -42,7 +42,7 @@ You can also find my articles on my <u><a href="https://scholar.google.com/citat
 
 </ol>
 
-Note:*means co-first author.  
+Note: * means co-first author.  
 
 <h1>Dissertation</h1>
 <ul>
@@ -55,4 +55,31 @@ Note:*means co-first author.
 
 <li> Wu, D., Karhade, D. S., Pillai, M., Jiang, M. Z., Huang, L., <b>Li, G.</b>, ... & Divaris, K. (2021). <a href="https://link.springer.com/chapter/10.1007/978-3-030-71881-7_13">Machine Learning and Deep Learning in Genetics and Genomics.</a>  In Machine Learning in Dentistry (pp. 163-181). Springer, Cham. </li>
 
+<li> <b>Li, G.</b>, Zhang, G., Li, Y. (2022).	
+		DNA Methylation Imputation across Platforms. <a href="https://www.barnesandnoble.com/w/epigenome-wide-association-studies-weihua-guan/1139992489">Epigenome-Wide Association Studies: Methods and Protocols.</a> Springer, US, 2022. Methods in Molecular Biology \#2432.
+    </li>
+
+</ol>
+
+<h1>In Preparation</h1>
+<ol>
+
+<li> <b>Li, G.</b>, Kim, H., Pendyala, S., Papaxanthos, L., Fowler, D., Vert, J., Noble, W.(2022+). 
+	Integrating imaging and sequencing data from visual cell sorting. </li>
+
+<li> <b>Li, G.</b>,  Alavattam, K., Qiu, C., Deng, X., Disteche, C., Noble, W.  (2022+).
+    Allelic Change During Mouse Embroynic Development. </li>
+
+<li> Jia, W.*, <b>Li, G.*</b>, Szatkiewicz, J., Sullivan, P. , Li, Y.(2022). 
+	DeepGWAS to Enhance GWAS Signals for Neuropsychiatric Disorders via Deep Neural Network. </li>
+
+<li> Yu, W., Gu, Q., Wu, D., Zhang, W., <b>Li, G.</b>, ..., Lu, E. (2022). 
+	Identification of potentially functional circRNAs and prediction of circRNA-miRNA-mRNA regulatory network in periodontitis: bridging the gap between bioinformatics and clinical needs. Journal of Periodontal Research. (Accepted 03.26.2022; DOI: 10.1111/jre.12989) </li>
+
+<li> Huang, L.*, Yang, Y.*, <b>Li, G.</b>, Jiang, M., Armen A., Rosen, J. D. ,  Hu, M., Li, Y. (2022). 
+    A systematic evaluation of Hi-C data enhancement methods for enhancing PLAC-seq and HiChIP data. (Submitted)  </li> 
+
+<li>  Laetitia Meng-Papaxanthos, Ran Zhang, <b>Li, G.</b>, Marco Cuturi, William Stafford Noble, Jean-Philippe Vert (2022+).
+    <a href=https://www.biorxiv.org/content/10.1101/2022.03.23.485536v1.full.pdf+html>LSMMD-MA: Scaling multimodal data integration for single-cell genomics data analysis.</a> (Submitted)
+    </li> 
 </ol>
