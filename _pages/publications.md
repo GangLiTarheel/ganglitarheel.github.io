@@ -77,7 +77,7 @@ Note: * means co-first author.
 	Identification of potentially functional circRNAs and prediction of circRNA-miRNA-mRNA regulatory network in periodontitis: bridging the gap between bioinformatics and clinical needs. Journal of Periodontal Research. (Accepted 03.26.2022; DOI: 10.1111/jre.12989) </li>
 
 <li> Huang, L.*, Yang, Y.*, <b>Li, G.</b>, Jiang, M., Armen A., Rosen, J. D. ,  Hu, M., Li, Y. (2022). 
-    A systematic evaluation of Hi-C data enhancement methods for enhancing PLAC-seq and HiChIP data. (Submitted)  </li> 
+    A systematic evaluation of Hi-C data enhancement methods for enhancing PLAC-seq and HiChIP data. (Accepted by Briefings in Bioinformatics)  </li> 
 
 <li>  Laetitia Meng-Papaxanthos, Ran Zhang, <b>Li, G.</b>, Marco Cuturi, William Stafford Noble, Jean-Philippe Vert (2022+).
     <a href="https://www.biorxiv.org/content/10.1101/2022.03.23.485536v1.full.pdf+html">LSMMD-MA: Scaling multimodal data integration for single-cell genomics data analysis.</a> (Submitted) <a href="https://pypi.org/project/lsmmdma/"> [Code] </a>

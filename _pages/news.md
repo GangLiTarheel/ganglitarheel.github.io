@@ -3,7 +3,8 @@ permalink: /news/
 author_profile: true
 layout: archive
 ---
-2022.03 The research article, ["Identification of potentially functional circRNAs and prediction of circRNA-miRNA-mRNA regulatory network in periodontitis: bridging the gap between bioinformatics and clinical needs (DOI: 10.1111/jre.12989)"](https://onlinelibrary.wiley.com/journal/16000765), that Gang co-authored, got accepted by Journal of Periodontal Research.
+2022.03 The research article, ["A systematic evaluation of Hi-C data enhancement methods for enhancing PLAC-seq and HiChIP data."](https://academic.oup.com/bib/issue), that Gang co-authored, got accepted by Briefings in Bioinformatics.
+<br>2022.03 The research article, ["Identification of potentially functional circRNAs and prediction of circRNA-miRNA-mRNA regulatory network in periodontitis: bridging the gap between bioinformatics and clinical needs (DOI: 10.1111/jre.12989)"](https://onlinelibrary.wiley.com/journal/16000765), that Gang co-authored, got accepted by Journal of Periodontal Research.
 <br>2022.02 Gang was invited to give a talk at [2022 EcoStat](http://www.cmstatistics.org/EcoSta2022/). 
 <br>2021.12 Gang presented a poster, "Integration of imaging and sequencing data in the context of visual cell sorting", at 2021 4DN Annual Meeting. 
 <br>2021.10 Jia presented our work, ["Genome-wide association study of coronary heart disease in chronic kidney disease: the Chronic Renal Insufficiency Cohort (CRIC) study."](https://eventpilotadmin.com/web/page.php?page=Session&project=ASHG21&id=P2191), as an E-poster at 2021 ASHG virtual meeting. Congrats, Jia!
