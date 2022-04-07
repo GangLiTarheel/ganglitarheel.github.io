@@ -20,7 +20,11 @@ You can also find my articles on my <u><a href="https://scholar.google.com/citat
 --->
 <ol>
 
-<li> Ren, X., Wang, M., ..., <b>Li, G.</b>, ..., Shen, Y. (2021) <a href="https://www.science.org/doi/10.1126/sciadv.abi4360"> Parallel characterization of cis-regulatory elements for multiple genes using CRISPRpath.  </a> Science Advances. 2021 Sep;7(38):eabi4360. DOI: 10.1126/sciadv.abi4360. PMID: 34524848; PMCID: PMC8443183. </li>
+<li> Yu, W., Gu, Q., Wu, D., Zhang, W., <b>Li, G.</b>, ..., Lu, E. (2022). 
+	<a href="https://onlinelibrary.wiley.com/doi/10.1111/jre.12989">Identification of potentially functional circRNAs and prediction of circRNA-miRNA-mRNA regulatory network in periodontitis: bridging the gap between bioinformatics and clinical needs.</a>
+  J Periodontal Res. 2022 Apr 6. doi: 10.1111/jre.12989. Epub ahead of print. PMID: 35388494. </li>
+
+<li> Ren, X., Wang, M., ..., <b>Li, G.</b>, ..., Shen, Y. (2021). <a href="https://www.science.org/doi/10.1126/sciadv.abi4360"> Parallel characterization of cis-regulatory elements for multiple genes using CRISPRpath.  </a> Science Advances. 2021 Sep;7(38):eabi4360. DOI: 10.1126/sciadv.abi4360. PMID: 34524848; PMCID: PMC8443183. </li>
 
 <li> <b>Li, G.*</b>, Luan, C.*, Zentz, S., Zelt, R., Roach, J., Liu, J., Qian, L., Li, Y., Yang, Y. (2021). <a href="https://www.mdpi.com/1422-0067/22/16/8943"> ExpressHeart: Web Portal to Visualize Transcriptome Profiles of Non-cardiomyocyte Cells.</a>  International Journal of Molecular Sciences, 2021; 22(16):8943.  <a href="http://shiny.bios.unc.edu/expressheart/"> [Web] </a> </li>
 
@@ -72,9 +76,6 @@ Note: * means co-first author.
 
 <li> Jia, W.*, <b>Li, G.*</b>, Szatkiewicz, J., Sullivan, P. , Li, Y.(2022). 
 	DeepGWAS to Enhance GWAS Signals for Neuropsychiatric Disorders via Deep Neural Network. </li>
-
-<li> Yu, W., Gu, Q., Wu, D., Zhang, W., <b>Li, G.</b>, ..., Lu, E. (2022). 
-	Identification of potentially functional circRNAs and prediction of circRNA-miRNA-mRNA regulatory network in periodontitis: bridging the gap between bioinformatics and clinical needs. Journal of Periodontal Research. (Accepted 03.26.2022; DOI: 10.1111/jre.12989) </li>
 
 <li> Huang, L.*, Yang, Y.*, <b>Li, G.</b>, Jiang, M., Armen A., Rosen, J. D. ,  Hu, M., Li, Y. (2022). 
     A systematic evaluation of Hi-C data enhancement methods for enhancing PLAC-seq and HiChIP data. (Accepted by Briefings in Bioinformatics)  </li> 
