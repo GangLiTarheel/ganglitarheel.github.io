@@ -3,8 +3,8 @@ permalink: /news/
 author_profile: true
 layout: archive
 ---
-
-2022.04 The research article, ["Identification of potentially functional circRNAs and prediction of circRNA-miRNA-mRNA regulatory network in periodontitis: bridging the gap between bioinformatics and clinical needs"](https://onlinelibrary.wiley.com/doi/10.1111/jre.12989), that Gang co-authored, got published by Journal of Periodontal Research.
+2022.04 Gang gave a talk, "Integration of imaging and sequencing data in the context of visual cell sorting", at UW GS postdoctoral seminar. 
+<br>2022.04 The research article, ["Identification of potentially functional circRNAs and prediction of circRNA-miRNA-mRNA regulatory network in periodontitis: bridging the gap between bioinformatics and clinical needs"](https://onlinelibrary.wiley.com/doi/10.1111/jre.12989), that Gang co-authored, got published by Journal of Periodontal Research.
 <br>2022.03 The research article, ["A systematic evaluation of Hi-C data enhancement methods for enhancing PLAC-seq and HiChIP data."](https://academic.oup.com/bib/issue), that Gang co-authored, got accepted by Briefings in Bioinformatics.
 <br>2022.02 Gang was invited to give a talk at [2022 EcoStat](http://www.cmstatistics.org/EcoSta2022/). 
 <br>2021.12 Gang presented a poster, "Integration of imaging and sequencing data in the context of visual cell sorting", at 2021 4DN Annual Meeting. 
