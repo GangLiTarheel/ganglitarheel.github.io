@@ -45,7 +45,7 @@ Note: * means co-first author.
 </ul>
 
 <h1>Collaborative paper</h1>
-<ul>
+<ol>
 
 <li> Huang, L.*, Yang, Y.*, <b>Li, G.</b>, Jiang, M., Wen, J., Armen, A., Rosen, J. D. ,  Hu, M., Li, Y. (2022). 
     <a href="https://doi.org/10.1093/bib/bbac145"> A systematic evaluation of Hi-C data enhancement methods for enhancing PLAC-seq and HiChIP data. (Accepted by Briefings in Bioinformatics)  </li> 
@@ -59,7 +59,7 @@ Note: * means co-first author.
 <li> Yang,  Y., <b>Li,  G.</b>,  Xie,  Y.,  Wang,  L.,  Liu,  J.,  Qian,  L.,  Li,  Y.  (2021). <a href="https://doi.org/10.1093/bib/bbab122"> iSMNN: Batch   Effect   Correction   for   Single-cell   RNA-seq   data   via   Iterative   Supervised   Mu-tual   Nearest   Neighbor   Refinement.</a>
  Briefings   in   Bioinformatics,   2021;,   bbab122  <a href="https://github.com/yycunc/iSMNN"> [Code] </a> </li>
 
-</ul>
+</ol>
 
 <h1>Book Chapter</h1>
 <ol>
