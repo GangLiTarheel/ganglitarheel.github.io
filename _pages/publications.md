@@ -20,17 +20,7 @@ You can also find my articles on my <u><a href="https://scholar.google.com/citat
 --->
 <ol>
 
-<li> Yu, W., Gu, Q., Wu, D., Zhang, W., <b>Li, G.</b>, ..., Lu, E. (2022). 
-	<a href="https://onlinelibrary.wiley.com/doi/10.1111/jre.12989">Identification of potentially functional circRNAs and prediction of circRNA-miRNA-mRNA regulatory network in periodontitis: bridging the gap between bioinformatics and clinical needs.</a>
-  J Periodontal Res. 2022 Apr 6. doi: 10.1111/jre.12989. Epub ahead of print. PMID: 35388494. </li>
-
-<li> Ren, X., Wang, M., ..., <b>Li, G.</b>, ..., Shen, Y. (2021). <a href="https://www.science.org/doi/10.1126/sciadv.abi4360"> Parallel characterization of cis-regulatory elements for multiple genes using CRISPRpath.  </a> Science Advances. 2021 Sep;7(38):eabi4360. DOI: 10.1126/sciadv.abi4360. PMID: 34524848; PMCID: PMC8443183. </li>
-
 <li> <b>Li, G.*</b>, Luan, C.*, Zentz, S., Zelt, R., Roach, J., Liu, J., Qian, L., Li, Y., Yang, Y. (2021). <a href="https://www.mdpi.com/1422-0067/22/16/8943"> ExpressHeart: Web Portal to Visualize Transcriptome Profiles of Non-cardiomyocyte Cells.</a>  International Journal of Molecular Sciences, 2021; 22(16):8943.  <a href="http://shiny.bios.unc.edu/expressheart/"> [Web] </a> </li>
-
-<li> Yang,  Y., <b>Li,  G.</b>,  Xie,  Y.,  Wang,  L.,  Liu,  J.,  Qian,  L.,  Li,  Y.  (2021). <a href="https://doi.org/10.1093/bib/bbab122"> iSMNN: Batch   Effect   Correction   for   Single-cell   RNA-seq   data   via   Iterative   Supervised   Mu-tual   Nearest   Neighbor   Refinement.</a>
- Briefings   in   Bioinformatics,   2021;,   bbab122  <a href="https://github.com/yycunc/iSMNN"> [Code] </a> </li>
-
 
 <li> <b>Li,  G.</b>,  Raffield,  L.,  Logue,  M.,  Miller,  M.W.,  Santos,  H.P.,  O’Shea,  M.,  Fry,  R. and Li,Y. (2020). <a href="https://doi.org/10.1080/15592294.2020.1827716"> CUE: CpG imPutation Ensemble for DNA Methylation Levels across Platforms.</a> Epigenetics, 1-11. <a href="https://github.com/GangLiTarheel/CUE"> [Code] </a>  </li>
 
@@ -52,6 +42,23 @@ Note: * means co-first author.
 <ul>
 
 <li> <a href="https://www.proquest.com/docview/2546056928/fulltextPDF/7C7D9A9F06404D64PQ">Coupling Machine Learning with Fiducial Inference, Genetics and Epigenetics</a>. Ann Arbor: The University of North Carolina at Chapel Hill; 2021. </li>
+</ul>
+
+<h1>Collaborative paper</h1>
+<ul>
+
+<li> Huang, L.*, Yang, Y.*, <b>Li, G.</b>, Jiang, M., Wen, J., Armen, A., Rosen, J. D. ,  Hu, M., Li, Y. (2022). 
+    <a href="https://doi.org/10.1093/bib/bbac145"> A systematic evaluation of Hi-C data enhancement methods for enhancing PLAC-seq and HiChIP data. (Accepted by Briefings in Bioinformatics)  </li> 
+
+<li> Yu, W., Gu, Q., Wu, D., Zhang, W., <b>Li, G.</b>, ..., Lu, E. (2022). 
+	<a href="https://onlinelibrary.wiley.com/doi/10.1111/jre.12989">Identification of potentially functional circRNAs and prediction of circRNA-miRNA-mRNA regulatory network in periodontitis: bridging the gap between bioinformatics and clinical needs.</a>
+  J Periodontal Res. 2022 Apr 6. doi: 10.1111/jre.12989. Epub ahead of print. PMID: 35388494. </li>
+
+<li> Ren, X., Wang, M., ..., <b>Li, G.</b>, ..., Shen, Y. (2021). <a href="https://www.science.org/doi/10.1126/sciadv.abi4360"> Parallel characterization of cis-regulatory elements for multiple genes using CRISPRpath.  </a> Science Advances. 2021 Sep;7(38):eabi4360. DOI: 10.1126/sciadv.abi4360. PMID: 34524848; PMCID: PMC8443183. </li>
+
+<li> Yang,  Y., <b>Li,  G.</b>,  Xie,  Y.,  Wang,  L.,  Liu,  J.,  Qian,  L.,  Li,  Y.  (2021). <a href="https://doi.org/10.1093/bib/bbab122"> iSMNN: Batch   Effect   Correction   for   Single-cell   RNA-seq   data   via   Iterative   Supervised   Mu-tual   Nearest   Neighbor   Refinement.</a>
+ Briefings   in   Bioinformatics,   2021;,   bbab122  <a href="https://github.com/yycunc/iSMNN"> [Code] </a> </li>
+
 </ul>
 
 <h1>Book Chapter</h1>
@@ -76,9 +83,6 @@ Note: * means co-first author.
 
 <li> Jia, W.*, <b>Li, G.*</b>, Szatkiewicz, J., Sullivan, P. , Li, Y.(2022). 
 	DeepGWAS to Enhance GWAS Signals for Neuropsychiatric Disorders via Deep Neural Network. </li>
-
-<li> Huang, L.*, Yang, Y.*, <b>Li, G.</b>, Jiang, M., Armen A., Rosen, J. D. ,  Hu, M., Li, Y. (2022). 
-    A systematic evaluation of Hi-C data enhancement methods for enhancing PLAC-seq and HiChIP data. (Accepted by Briefings in Bioinformatics)  </li> 
 
 <li>  Laetitia Meng-Papaxanthos, Ran Zhang, <b>Li, G.</b>, Marco Cuturi, William Stafford Noble, Jean-Philippe Vert (2022+).
     <a href="https://www.biorxiv.org/content/10.1101/2022.03.23.485536v1.full.pdf+html">LSMMD-MA: Scaling multimodal data integration for single-cell genomics data analysis.</a> (Submitted) <a href="https://pypi.org/project/lsmmdma/"> [Code] </a>
