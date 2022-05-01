@@ -47,8 +47,8 @@ Note: * means co-first author.
 <h1>Collaborative paper</h1>
 <ol>
 
-<li> Huang, L.*, Yang, Y.*, <b>Li, G.</b>, Jiang, M., Wen, J., Armen, A., Rosen, J. D. ,  Hu, M., Li, Y. (2022). 
-    <a href="https://doi.org/10.1093/bib/bbac145"> A systematic evaluation of Hi-C data enhancement methods for enhancing PLAC-seq and HiChIP data.</a> (Accepted by Briefings in Bioinformatics)  </li> 
+<li>   Le Huang, Yuchen Yang, <b>Gang Li</b>, Minzhi Jiang, Jia Wen, Armen Abnousi, Jonathan D Rosen, Ming Hu, Yun Li
+    <a href="https://doi.org/10.1093/bib/bbac145"> A systematic evaluation of Hi-C data enhancement methods for enhancing PLAC-seq and HiChIP data.</a>  Briefings in Bioinformatics, 2022;, bbac145, https://doi.org/10.1093/bib/bbac145 </li> 
 
 <li> Yu, W., Gu, Q., Wu, D., Zhang, W., <b>Li, G.</b>, ..., Lu, E. (2022). 
 	<a href="https://onlinelibrary.wiley.com/doi/10.1111/jre.12989">Identification of potentially functional circRNAs and prediction of circRNA-miRNA-mRNA regulatory network in periodontitis: bridging the gap between bioinformatics and clinical needs.</a>
