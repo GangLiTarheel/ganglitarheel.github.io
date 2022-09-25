@@ -84,6 +84,9 @@ Note: * means co-first author.
 <li> Jia, W.*, <b>Li, G.*</b>, Szatkiewicz, J., Sullivan, P. , Li, Y.(2022). 
 	DeepGWAS to Enhance GWAS Signals for Neuropsychiatric Disorders via Deep Neural Network. </li>
 
+<li> J. Wen, Q. Sun, <b>G. Li</b>, X. Yang, J. Chen, Y. Shen, Y. Li.  (2022).
+  Deconvolution of bulk RNA-seq reveals cell-type specificity mechanism in Alzheimer’s disease. </li>
+
 <li>  Laetitia Meng-Papaxanthos, Ran Zhang, <b>Li, G.</b>, Marco Cuturi, William Stafford Noble, Jean-Philippe Vert (2022+).
     <a href="https://www.biorxiv.org/content/10.1101/2022.03.23.485536v1.full.pdf+html">LSMMD-MA: Scaling multimodal data integration for single-cell genomics data analysis.</a> (Submitted) <a href="https://pypi.org/project/lsmmdma/"> [Code] </a>
     </li> 
