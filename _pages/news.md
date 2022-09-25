@@ -3,7 +3,9 @@ permalink: /news/
 author_profile: true
 layout: archive
 ---
-2022.06 Gang was invited to give a talk, "Integration of imaging and sequencing data in the context of visual cell sorting", at The 5th International Conference on Econometrics and Statistics(EcoStat 2022). 
+2022.09 Gang co-organized ENCODE Nuclear Architecture Data Users’ Workshop.
+<br>2022.08 Our work, ["Deconvolution of bulk RNA-seq reveals cell-type specificity mechanism in Alzheimer’s disease."](https://eppro01.ativ.me/appinfo.php?page=IntHtml&project=ASHG22&id=744&server=eppro01.ativ.me), is accepted as an oral talk for 2022 ASHG meeting. Congrats, Jia and Quan!
+<br>2022.06 Gang was invited to give a talk, "Integration of imaging and sequencing data in the context of visual cell sorting", at The 5th International Conference on Econometrics and Statistics(EcoStat 2022). 
 <br>2022.05 Gang was invited to give a talk, "Integration of imaging and sequencing data in the context of visual cell sorting", at 2022 HSPH Program in Quantitative Genomics Seminar. 
 <br>2022.04 Gang gave a talk, "Integration of imaging and sequencing data in the context of visual cell sorting", at UW GS postdoctoral seminar. 
 <br>2022.04 The research article, ["Identification of potentially functional circRNAs and prediction of circRNA-miRNA-mRNA regulatory network in periodontitis: bridging the gap between bioinformatics and clinical needs"](https://onlinelibrary.wiley.com/doi/10.1111/jre.12989), that Gang co-authored, got published by Journal of Periodontal Research.
