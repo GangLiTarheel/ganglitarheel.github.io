@@ -47,7 +47,7 @@ Note: * means co-first author.
 <h1>Collaborative paper</h1>
 <ol>
 
-<li>   Le Huang, Yuchen Yang, <b>Gang Li</b>, Minzhi Jiang, Jia Wen, Armen Abnousi, Jonathan D Rosen, Ming Hu, Yun Li
+<li>   Le Huang, Yuchen Yang, <b>Gang Li</b>, Minzhi Jiang, Jia Wen, Armen Abnousi, Jonathan D Rosen, Ming Hu, Yun Li. (2022).
     <a href="https://doi.org/10.1093/bib/bbac145"> A systematic evaluation of Hi-C data enhancement methods for enhancing PLAC-seq and HiChIP data.</a>  Briefings in Bioinformatics, 2022;, bbac145, https://doi.org/10.1093/bib/bbac145 </li> 
 
 <li> Yu, W., Gu, Q., Wu, D., Zhang, W., <b>Li, G.</b>, ..., Lu, E. (2022). 
@@ -64,11 +64,11 @@ Note: * means co-first author.
 <h1>Book Chapter</h1>
 <ol>
 
-<li> Wu, D., Karhade, D. S., Pillai, M., Jiang, M. Z., Huang, L., <b>Li, G.</b>, ... & Divaris, K. (2021). <a href="https://link.springer.com/chapter/10.1007/978-3-030-71881-7_13">Machine Learning and Deep Learning in Genetics and Genomics.</a>  In Machine Learning in Dentistry (pp. 163-181). Springer, Cham. </li>
-
 <li> <b>Li, G.</b>, Zhang, G., Li, Y. (2022).	
 		DNA Methylation Imputation across Platforms. <a href="https://www.barnesandnoble.com/w/epigenome-wide-association-studies-weihua-guan/1139992489">Epigenome-Wide Association Studies: Methods and Protocols.</a> Springer, US, 2022. Methods in Molecular Biology \#2432.
     </li>
+
+<li> Wu, D., Karhade, D. S., Pillai, M., Jiang, M. Z., Huang, L., <b>Li, G.</b>, ... & Divaris, K. (2021). <a href="https://link.springer.com/chapter/10.1007/978-3-030-71881-7_13">Machine Learning and Deep Learning in Genetics and Genomics.</a>  In Machine Learning in Dentistry (pp. 163-181). Springer, Cham. </li>
 
 </ol>
 
