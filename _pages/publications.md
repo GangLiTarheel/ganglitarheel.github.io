@@ -78,7 +78,7 @@ Note: * means co-first author.
 <li> Jia, W.*, <b>Li, G.*</b>, Chen, J., Sun, Q., Liu, W., Guan, W., Lai, B., He, X., Szatkiewicz, J., Sullivan, P. , Li, Y.(2022+, submitted). 
 	DeepGWAS to Enhance GWAS Signals for Neuropsychiatric Disorders via Deep Neural Network. </li>
 
-<li> <b>Li, G.</b>, Kim, H., Pendyala, S., Papaxanthos, L., Fowler, D., Vert, J., Noble, W.(2022+, under revision). 
+<li> <b>Li, G.</b>, Kim, H., Pendyala, S., Papaxanthos, L., Fowler, D., Vert, J., Noble, W.(2022+). 
 	Integrating imaging and sequencing data from visual cell sorting. </li>
 
 <li> <b>Li, G.</b>,  Alavattam, K., Qiu, C., Deng, X., Disteche, C., Noble, W.  (2022+).
