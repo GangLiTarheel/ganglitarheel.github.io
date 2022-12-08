@@ -3,9 +3,12 @@ permalink: /news/
 author_profile: true
 layout: archive
 ---
-2022.09 Gang prsented a poster, "Integration of imaging and sequencing data in the context of visual cell sorting", at 2022 UW GS retreat. 
+
+2022.12 Gang prsented a poster, "Integration of imaging and sequencing data in the context of visual cell sorting", at 2022 4D Nucleome (4DN) anual meeting.
+<br>2022.11 Gang was selected for Seattle Chinese Biomedical Association (SCBA) - Sino Biological Young investigator Award.
+<br>2022.09 Gang prsented a poster, "Integration of imaging and sequencing data in the context of visual cell sorting", at 2022 UW Genome Sciences retreat. 
 <br>2022.09 Gang co-organized ENCODE Nuclear Architecture Data Users’ Workshop.
-<br>2022.08 Our work, ["Deconvolution of bulk RNA-seq reveals cell-type specificity mechanism in Alzheimer’s disease."](https://eppro01.ativ.me/appinfo.php?page=IntHtml&project=ASHG22&id=744&server=eppro01.ativ.me), is accepted as an oral talk for 2022 ASHG meeting. Congrats, Jia and Quan!
+<br>2022.08 Our work, ["Deconvolution of bulk RNA-seq reveals cell-type specificity mechanism in Alzheimer’s disease."](https://eppro01.ativ.me/appinfo.php?page=IntHtml&project=ASHG22&id=744&server=eppro01.ativ.me), is accepted as an oral talk (15 mins) for 2022 ASHG meeting. Congrats, Jia and Quan!
 <br>2022.06 Gang was invited to give a talk, "Integration of imaging and sequencing data in the context of visual cell sorting", at The 5th International Conference on Econometrics and Statistics(EcoStat 2022). 
 <br>2022.05 Gang was invited to give a talk, "Integration of imaging and sequencing data in the context of visual cell sorting", at 2022 HSPH Program in Quantitative Genomics Seminar. 
 <br>2022.04 Gang gave a talk, "Integration of imaging and sequencing data in the context of visual cell sorting", at UW GS postdoctoral seminar. 
