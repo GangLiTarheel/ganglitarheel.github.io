@@ -75,19 +75,20 @@ Note: * means co-first author.
 <h1>In Preparation</h1>
 <ol>
 
-<li> Jia, W.*, <b>Li, G.*</b>, Chen, J., Sun, Q., Liu, W., Guan, W., Lai, B., He, X., Szatkiewicz, J., Sullivan, P. , Li, Y.(2022+, submitted). 
-	DeepGWAS to Enhance GWAS Signals for Neuropsychiatric Disorders via Deep Neural Network. </li>
+<li> Jia, W.*, <b>Li, G.*</b>, Chen, J., Sun, Q., Liu, W., Guan, W., Lai, B., He, X., Szatkiewicz, J., Sullivan, P. , Li, Y.(2023+, submitted). 
+	<a href="https://www.biorxiv.org/content/10.1101/2022.12.20.521277v1">DeepGWAS to Enhance GWAS Signals for Neuropsychiatric Disorders via Deep Neural Network.</a>  <a href="https://github.com/GangLiTarheel/DeepGWAS"> [Code] </a>
+  </li>
 
-<li> <b>Li, G.</b>, Kim, H., Pendyala, S., Papaxanthos, L., Fowler, D., Vert, J., Noble, W.(2022+). 
+<li> <b>Li, G.</b>, Kim, H., Pendyala, S., Papaxanthos, L., Fowler, D., Vert, J., Noble, W.(2023+). 
 	Integrating imaging and sequencing data from visual cell sorting. </li>
 
-<li> <b>Li, G.</b>,  Alavattam, K., Qiu, C., Deng, X., Disteche, C., Noble, W.  (2022+).
+<li> <b>Li, G.</b>,  Alavattam, K., Qiu, C., Deng, X., Disteche, C., Noble, W.  (2023+).
     Allelic Change During Mouse Embroynic Development. </li>
 
-<li> J. Wen, Q. Sun, <b>G. Li</b>, X. Yang, J. Chen, Y. Shen, Y. Li.  (2022+).
+<li> J. Wen, Q. Sun, <b>G. Li</b>, X. Yang, J. Chen, Y. Shen, Y. Li.  (2023+).
   Deconvolution of bulk RNA-seq reveals cell-type specificity mechanism in Alzheimer’s disease. </li>
 
-<li>  Laetitia Meng-Papaxanthos, Ran Zhang, <b>Li, G.</b>, Marco Cuturi, William Stafford Noble, Jean-Philippe Vert (2022+).
+<li>  Laetitia Meng-Papaxanthos, Ran Zhang, <b>Li, G.</b>, Marco Cuturi, William Stafford Noble, Jean-Philippe Vert (2023+).
     <a href="https://www.biorxiv.org/content/10.1101/2022.03.23.485536v1.full.pdf+html">LSMMD-MA: Scaling multimodal data integration for single-cell genomics data analysis.</a> (Submitted) <a href="https://pypi.org/project/lsmmdma/"> [Code] </a>
     </li> 
 </ol>
