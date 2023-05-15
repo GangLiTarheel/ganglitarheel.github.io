@@ -4,7 +4,9 @@ author_profile: true
 layout: archive
 ---
 
-2022.12 Gang was invited to gave a talk at the 8th Young Statistician Forum at Shanghai University of Finance and Economics. 
+2023.03 Gang presetned a seminar talk, "Pseudotime analysis and integration for time-series single-cell sequencing and imaging data", at UW 4D-Genome Meeting.
+<br>2023.01 Gang presetned a poster, "Integration of imaging and sequencing data in the context of visual cell sorting", at 2023 UW CMB Annual Meeting.
+<br>2022.12 Gang was invited to gave a talk at the 8th Young Statistician Forum at Shanghai University of Finance and Economics. 
 <br>2022.12 Gang prsented a poster, "Integration of imaging and sequencing data in the context of visual cell sorting", at 2022 4D Nucleome (4DN) anual meeting.
 <br>2022.11 Gang was selected for Seattle Chinese Biomedical Association (SCBA) - Sino Biological Young investigator Award.
 <br>2022.09 Gang prsented a poster, "Integration of imaging and sequencing data in the context of visual cell sorting", at 2022 UW Genome Sciences retreat. 
