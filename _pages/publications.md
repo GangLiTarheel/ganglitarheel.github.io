@@ -46,6 +46,9 @@ Note: * means co-first author.
 
 <h1>Collaborative paper</h1>
 <ol>
+<li>  Laetitia Meng-Papaxanthos, Ran Zhang, <b>Li, G.</b>, Marco Cuturi, William Stafford Noble, Jean-Philippe Vert (2023+).
+    <a href="https://doi.org/10.1093/bioinformatics/btad420">LSMMD-MA: scaling multimodal data integration for single-cell genomics data analysis.</a> , Bioinformatics, Volume 39, Issue 7, July 2023, btad420, https://doi.org/10.1093/bioinformatics/btad420 <a href="https://pypi.org/project/lsmmdma/"> [Code] </a>
+    </li> 
 
 <li>   Le Huang, Yuchen Yang, <b>Gang Li</b>, Minzhi Jiang, Jia Wen, Armen Abnousi, Jonathan D Rosen, Ming Hu, Yun Li. (2022).
     <a href="https://doi.org/10.1093/bib/bbac145"> A systematic evaluation of Hi-C data enhancement methods for enhancing PLAC-seq and HiChIP data.</a>  Briefings in Bioinformatics, 2022;, bbac145, https://doi.org/10.1093/bib/bbac145 </li> 
@@ -91,7 +94,5 @@ Note: * means co-first author.
 <li> J. Wen, Q. Sun, <b>G. Li</b>, X. Yang, J. Chen, Y. Shen, Y. Li.  (2023+).
   Deconvolution of bulk RNA-seq reveals cell-type specificity mechanism in Alzheimer’s disease. </li>
 
-<li>  Laetitia Meng-Papaxanthos, Ran Zhang, <b>Li, G.</b>, Marco Cuturi, William Stafford Noble, Jean-Philippe Vert (2023+).
-    <a href="https://www.biorxiv.org/content/10.1101/2022.03.23.485536v1.full.pdf+html">LSMMD-MA: Scaling multimodal data integration for single-cell genomics data analysis.</a> (Submitted) <a href="https://pypi.org/project/lsmmdma/"> [Code] </a>
-    </li> 
+
 </ol>
