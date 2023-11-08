@@ -98,7 +98,8 @@ Note: * means co-first author.
 	<a href="https://www.biorxiv.org/content/10.1101/2022.12.20.521277v1">DeepGWAS to Enhance GWAS Signals for Neuropsychiatric Disorders via Deep Neural Network.</a>  <a href="https://github.com/GangLiTarheel/DeepGWAS"> [Code] </a>
   </li>
 
-<li>  Tanqi Fang, Yifeng Liu, Addie Woicik, Minsi Lu, Anupama Jha, Xiao Wang, \textbf{Gang Li}, Borislav Hristov, Zixuan Liu, Hanwen Xu, William Noble, Sheng Wang. (2023+). <a href="https://www.biorxiv.org/content/10.1101/2023.10.25.564065v2">Enhancing Hi-C contact matrices for loop detection with Capricorn, a multi-view diffusion model.</a>  <a href="https://github.com/CHNFTQ/Capricorn"> [Code]   </li>
+<li>  Tanqi Fang, Yifeng Liu, Addie Woicik, Minsi Lu, Anupama Jha, Xiao Wang, <b>Gang Li</b>, Borislav Hristov, Zixuan Liu, Hanwen Xu, William Noble, Sheng Wang. (2023+). <a href="https://www.biorxiv.org/content/10.1101/2023.10.25.564065v2">Enhancing Hi-C contact matrices for loop detection with Capricorn, a multi-view diffusion model.</a>  <a href="https://github.com/CHNFTQ/Capricorn"> [Code]  </a>
+ </li>
 
 
 <li> J. Wen, Q. Sun, <b>G. Li</b>, X. Yang, J. Chen, Y. Shen, Y. Li.  (2023+).
