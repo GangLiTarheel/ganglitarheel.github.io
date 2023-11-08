@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a UW Data Science Postdoctoral Fellow under the supervision of [Prof. Bill Noble](https://noble.gs.washington.edu/~wnoble/) at the University of Washington. My postdoctoral work focuses on developing machine learning methods for interpreting high-throughput genomic data sets of 3D genome architecture, with a particular emphasis on embryonic development in mouse. Currently I am working on the integration of imaging and sequencing data from visual cell sorting.
+I am currently a UW Data Science Postdoctoral Fellow under the supervision of [Prof. Bill Noble](https://noble.gs.washington.edu/~wnoble/) at the University of Washington. My postdoctoral work focuses on developing machine learning methods for interpreting high-throughput genomic data sets of 3D genome architecture, with a particular emphasis on embryonic development in mouse. Currently I am working on the pseudotime analysis and integration of imaging and sequencing data.
 
 
 I got my Ph.D. in interdisciplinary statistics and operations research (INSTORE) with a machine learning concentration at UNC at Chapel Hill in 2021. I was fortunate to be advised by both [Prof. Jan Hannig](https://hannig.cloudapps.unc.edu/) and [Prof. Yun Li](https://yunliweb.its.unc.edu/). I obtained my M.S. in Statistics at UNC at Chapel Hill in 2017 and my B.S. in mathematics and applied mathematics at Beijing University of Posts & Telecommunications in 2016.
@@ -16,7 +16,8 @@ I got my Ph.D. in interdisciplinary statistics and operations research (INSTORE)
 ## Research Interests:
 
 ### Computational Biology:
-Integration of imaging and sequencing data
+Pseudotime analysis
+<br> Integration of imaging and sequencing data
 <br> Single-cell RNA sequencing
 <br> Single-cell ATAC sequencing analyses
 <br> Allelic Expression Analysis

@@ -46,7 +46,11 @@ Note: * means co-first author.
 
 <h1>Collaborative paper</h1>
 <ol>
-<li>  Laetitia Meng-Papaxanthos, Ran Zhang, <b>Li, G.</b>, Marco Cuturi, William Stafford Noble, Jean-Philippe Vert (2023+).
+<li>  Michael Z. Miao, Qian Peter Su, Yang Cui, Edward M. Bahnson, <b>Gang Li</b>, Menglin Wang, Yuchen Yang, John A. Collins1, Di Wu, Susan Chubinskaya, Brian O. Diekman, Richard F. Loeser (2023).
+    <a href="https://www.science.org/doi/10.1126/scisignal.adf8299">Redox-active endosomes mediate α5β1 integrin signaling and promote chondrocyte matrix metalloproteinase production in osteoarthritis.</a> Sci. Signal.16,eadf8299(2023).DOI:10.1126/scisignal.adf8299
+    </li> 
+
+<li>  Laetitia Meng-Papaxanthos, Ran Zhang, <b>Li, G.</b>, Marco Cuturi, William Stafford Noble, Jean-Philippe Vert (2023).
     <a href="https://doi.org/10.1093/bioinformatics/btad420">LSMMD-MA: scaling multimodal data integration for single-cell genomics data analysis.</a> , Bioinformatics, Volume 39, Issue 7, July 2023, btad420, https://doi.org/10.1093/bioinformatics/btad420 <a href="https://pypi.org/project/lsmmdma/"> [Code] </a>
     </li> 
 
@@ -78,18 +82,24 @@ Note: * means co-first author.
 <h1>In Preparation</h1>
 <ol>
 
-<li> <b>Li, G.</b>, Kim, H., Zhang, R., Pendyala, S., Papaxanthos, L., Deng, X., Disteche, C., Fowler, D., Vert, J., Noble, W.(2023+). </li>
-  Pseudotime analysis and integration for time-series single-cell sequencing and imaging data. 
+<li> <b>Li, G.</b>, Kim, H., Pendyala, S., Zhang, R., Disteche, C., Vert, J., Deng, X., Fowler, D., Noble, W.(2023+). 
+  <a href="https://www.biorxiv.org/content/10.1101/2023.11.03.565575v1.article-info">Pseudotime analysis and integration for time-series single-cell sequencing and imaging data. </a> <a href="https://github.com/Noble-Lab/Sceptic"> [Code] </a> </li>
 
-<li> <b>Li, G.</b>,  Alavattam, K., Qiu, C., Deng, X., Disteche, C., Noble, W.  (2023+).
+<li> <b>Li, G.</b>,  Alavattam, K., Qiu, C., Deng, X., Disteche, C., Noble, W. (2023+).
     Allelic Change During Mouse Embroynic Development. </li>
-    
+
+<li> <b>Li, G.</b>, Eva Nichols, Val Browning,  Fowler, D., Beliveau, B.,  Noble, W. (2023+). 
+	Cell Cycle Estimation from DAPI signal. </li>
+
 <li> <b>Li, G.</b>, Kim, H., Zhang, R., Pendyala, S., Papaxanthos, L., Deng, X., Disteche, C., Fowler, D., Vert, J., Noble, W.(2023+). 
 	Integrating imaging and sequencing data from visual cell sorting. </li>
 
 <li> Jia, W.*, <b>Li, G.*</b>, Chen, J., Sun, Q., Liu, W., Guan, W., Lai, B., He, X., Szatkiewicz, J., Sullivan, P. , Li, Y.(2023+, submitted). 
 	<a href="https://www.biorxiv.org/content/10.1101/2022.12.20.521277v1">DeepGWAS to Enhance GWAS Signals for Neuropsychiatric Disorders via Deep Neural Network.</a>  <a href="https://github.com/GangLiTarheel/DeepGWAS"> [Code] </a>
   </li>
+
+<li>  Tanqi Fang, Yifeng Liu, Addie Woicik, Minsi Lu, Anupama Jha, Xiao Wang, \textbf{Gang Li}, Borislav Hristov, Zixuan Liu, Hanwen Xu, William Noble, Sheng Wang. (2023+). <a href="https://www.biorxiv.org/content/10.1101/2023.10.25.564065v2">Enhancing Hi-C contact matrices for loop detection with Capricorn, a multi-view diffusion model.</a>  <a href="https://github.com/CHNFTQ/Capricorn"> [Code]   </li>
+
 
 <li> J. Wen, Q. Sun, <b>G. Li</b>, X. Yang, J. Chen, Y. Shen, Y. Li.  (2023+).
   Deconvolution of bulk RNA-seq reveals cell-type specificity mechanism in Alzheimer’s disease. </li>
