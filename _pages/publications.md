@@ -46,6 +46,10 @@ Note: * means co-first author.
 
 <h1>Collaborative paper</h1>
 <ol>
+<li>  Y. Yang, T. Alves, M. Z. Miao, Y.C. Wu, <b>G. Li</b>, J. Lou, H. Hasturk, T.E. Van Dyke, A. Kantarci, D. Wu (2023).
+    <a href="https://journals.sagepub.com/doi/10.1177/00220345231205283">Single-Cell Transcriptomic Analysis of Dental Pulp and Periodontal Ligament Stem Cells.</a> Single-Cell Transcriptomic Analysis of Dental Pulp and Periodontal Ligament Stem Cells. Journal of Dental Research. 2023;0(0). doi:10.1177/00220345231205283
+    </li> 
+
 <li>  Michael Z. Miao, Qian Peter Su, Yang Cui, Edward M. Bahnson, <b>Gang Li</b>, Menglin Wang, Yuchen Yang, John A. Collins1, Di Wu, Susan Chubinskaya, Brian O. Diekman, Richard F. Loeser (2023).
     <a href="https://www.science.org/doi/10.1126/scisignal.adf8299">Redox-active endosomes mediate α5β1 integrin signaling and promote chondrocyte matrix metalloproteinase production in osteoarthritis.</a> Sci. Signal.16,eadf8299(2023).DOI:10.1126/scisignal.adf8299
     </li> 
