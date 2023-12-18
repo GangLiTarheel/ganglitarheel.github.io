@@ -4,11 +4,12 @@ author_profile: true
 layout: archive
 ---
 2023.12 Gang was invited to gave a talk on, ["Deep Fiducial Inference"](http://www.cmstatistics.org/RegistrationsV2/CMStatistics2023/viewSubmission.php?in=1000&token=6p6q10n43prp32p39rs490ornon0o127), at 2023 Computational and Methodological Statistics (CMStatistics 2023).
-<br>2023.12 Gang presetned a poster, ["Pseudotime analysis and integration for time-series single-cell sequencing and imaging data"], at 2023 4DN annual meeting.
-<br>2023.11 Gang's work, ["Pseudotime analysis and integration for time-series single-cell sequencing and imaging data"](https://www.biorxiv.org/content/10.1101/2023.11.03.565575v1.article-info), has been accpeted as an oral talk at MLCB2023.
+<br>2023.12 Gang presetned a poster, "Pseudotime analysis and integration for time-series single-cell sequencing and imaging data", at 2023 4DN annual meeting.
+<br>2023.11 Gang's work, ["Pseudotime analysis for time-series single-cell sequencing and imaging data"](https://www.biorxiv.org/content/10.1101/2023.11.03.565575v1.article-info), has been accpeted as an oral talk at MLCB2023.
 <br>2023.10 The research article, ["Redox-active endosomes mediate α5β1 integrin signaling and promote chondrocyte matrix metalloproteinase production in osteoarthritis."](https://www.science.org/doi/10.1126/scisignal.adf8299), that Gang co-authored, got published by Science Signaling.
 <br>2023.09 The research article, ["Single-Cell Transcriptomic Analysis of Dental Pulp and Periodontal Ligament Stem Cells"](https://journals.sagepub.com/doi/10.1177/00220345231205283), that Gang co-authored, got accepted by Journal of Dental Research.
-<br>2023.08 Gang Taught a session of a computer science course for high school girls and gender minorities for Genome Hackers program.
+<br>2023.09 Gang' gave a talk on, "Pseudotime analysis and integration for time-series single-cell sequencing and imaging data", at 2023 UW CMB Annual Meeting.
+<br>2023.08 Gang taught a session of a computer science course for high school girls and gender minorities for Genome Hackers program.
 <br>2023.07 Gang presetned a poster, "Pseudotime analysis and integration for time-series single-cell sequencing and imaging data", at 2023 Statistical Genetics Symposium.
 <br>2023.06 The research article, ["LSMMD-MA: scaling multimodal data integration for single-cell genomics data analysis."](https://doi.org/10.1093/bioinformatics/btad420), that Gang co-authored, got accepted by Bioinformatics.
 <br>2023.05 Gang completed the 2023 UW Future Faculty Fellows Workshop.
