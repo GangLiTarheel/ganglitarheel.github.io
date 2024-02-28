@@ -86,27 +86,30 @@ Note: * means co-first author.
 <h1>In Preparation</h1>
 <ol>
 
-<li> <b>Li, G.</b>, Kim, H., Pendyala, S., Zhang, R., Disteche, C., Vert, J., Deng, X., Fowler, D., Noble, W.(2023+). 
+<li> <b>Li, G.</b>, Kim, H., Pendyala, S., Zhang, R., Disteche, C., Vert, J., Deng, X., Fowler, D., Noble, W.(2024+, submitted). 
   <a href="https://www.biorxiv.org/content/10.1101/2023.11.03.565575v1.article-info">Pseudotime analysis and integration for time-series single-cell sequencing and imaging data. </a> <a href="https://github.com/Noble-Lab/Sceptic"> [Code] </a> </li>
 
-<li> <b>Li, G.</b>,  Alavattam, K., Qiu, C., Deng, X., Disteche, C., Noble, W. (2023+).
+<li> <b>Li, G.</b>, Qiu, C., Alavattam, K.,  Deng, X., Disteche, C., Noble, W. (2024+).
     Allelic Change During Mouse Embroynic Development. </li>
 
-<li> <b>Li, G.</b>, Eva Nichols, Val Browning,  Fowler, D., Beliveau, B.,  Noble, W. (2023+). 
-	Cell Cycle Estimation from DAPI signal. </li>
+<li> <b>Li, G.</b>, Valentino E. Browning, Nicolas Longhi, Eva K. Nichols,   Fowler, D., Beliveau, B.,  Noble, W. (2024+). 
+	3D cell cycle stage classification model for DAPI-stained image data. </li>
 
-<li> <b>Li, G.</b>, Kim, H., Zhang, R., Pendyala, S., Papaxanthos, L., Deng, X., Disteche, C., Fowler, D., Vert, J., Noble, W.(2023+). 
+<li> <b>Li, G.</b>, Kim, H., Zhang, R., Pendyala, S., Papaxanthos, L., Deng, X., Disteche, C., Fowler, D., Vert, J., Noble, W.(2024+). 
 	Integrating imaging and sequencing data from visual cell sorting. </li>
 
-<li> Jia, W.*, <b>Li, G.*</b>, Chen, J., Sun, Q., Liu, W., Guan, W., Lai, B., He, X., Szatkiewicz, J., Sullivan, P. , Li, Y.(2023+, submitted). 
+<li> Jia, W.*, <b>Li, G.*</b>, Chen, J., Sun, Q., Liu, W., Guan, W., Lai, B., He, X., Szatkiewicz, J., Sullivan, P. , Li, Y.(2024+, submitted). 
 	<a href="https://www.biorxiv.org/content/10.1101/2022.12.20.521277v1">DeepGWAS to Enhance GWAS Signals for Neuropsychiatric Disorders via Deep Neural Network.</a>  <a href="https://github.com/GangLiTarheel/DeepGWAS"> [Code] </a>
   </li>
 
-<li>  Tanqi Fang, Yifeng Liu, Addie Woicik, Minsi Lu, Anupama Jha, Xiao Wang, <b>Gang Li</b>, Borislav Hristov, Zixuan Liu, Hanwen Xu, William Noble, Sheng Wang. (2023+). <a href="https://www.biorxiv.org/content/10.1101/2023.10.25.564065v2">Enhancing Hi-C contact matrices for loop detection with Capricorn, a multi-view diffusion model.</a>  <a href="https://github.com/CHNFTQ/Capricorn"> [Code]  </a>
+<li>  Tangqi Fang, Yifeng Liu, Addie Woicik, Minsi Lu, Anupama Jha, Xiao Wang, <b>Gang Li</b>, Borislav Hristov, Zixuan Liu, Hanwen Xu, William Noble, Sheng Wang. (2024+, submitted). <a href="https://www.biorxiv.org/content/10.1101/2023.10.25.564065v2">Enhancing Hi-C contact matrices for loop detection with Capricorn, a multi-view diffusion model.</a>  <a href="https://github.com/CHNFTQ/Capricorn"> [Code]  </a>
  </li>
 
+<li>Ran Zhang, Chengxiang Qiu, Gala Filippova, <b>Gang Li</b>, Jay Shendure, Jean-Philippe Vert, Xinxian Deng, Christine M. Disteche, and William Stafford Noble. (2024+) 
+Multi-condition and multi-modal temporal profile inference during mouse embryonic development.
+ </li>
 
-<li> J. Wen, Q. Sun, <b>G. Li</b>, X. Yang, J. Chen, Y. Shen, Y. Li.  (2023+).
+<li> J. Wen, Q. Sun, <b>G. Li</b>, X. Yang, J. Chen, Y. Shen, Y. Li.  (2024+).
   Deconvolution of bulk RNA-seq reveals cell-type specificity mechanism in Alzheimer’s disease. </li>
 
 
