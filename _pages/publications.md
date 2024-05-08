@@ -46,8 +46,16 @@ Note: * means co-first author.
 
 <h1>Collaborative paper</h1>
 <ol>
+
+<li>  Tangqi Fang, Yifeng Liu, Addie Woicik, Minsi Lu, Anupama Jha, Xiao Wang, <b>Gang Li</b>, Borislav Hristov, Zixuan Liu, Hanwen Xu, William Noble, Sheng Wang. (2024 ISMB accepted). <a href="https://www.biorxiv.org/content/10.1101/2023.10.25.564065v2">Enhancing Hi-C contact matrices for loop detection with Capricorn, a multi-view diffusion model.</a>  <a href="https://github.com/CHNFTQ/Capricorn"> [Code]  </a>
+ </li>
+
+<li>  Gao W, Gu K, Ma L, Yang F, Deng L, Zhang Y, Miao MZ, Li W, <b>Li G</b>, Qian H, Zhang Z, Wang G, Yu H, Liu X. (2024).
+    <a href="https://www.ijbs.com/v20p2727.htm">Interstitial Fluid Shear Stress Induces the Synthetic Phenotype Switching of VSMCs to Release Pro-calcified Extracellular Vesicles via EGFR-MAPK-KLF5 Pathway.</a> Int J Biol Sci 2024; 20(7):2727-2747. doi:10.7150/ijbs.90725. https://www.ijbs.com/v20p2727.htm
+    </li> 
+
 <li>  Y. Yang, T. Alves, M. Z. Miao, Y.C. Wu, <b>G. Li</b>, J. Lou, H. Hasturk, T.E. Van Dyke, A. Kantarci, D. Wu (2023).
-    <a href="https://journals.sagepub.com/doi/10.1177/00220345231205283">Single-Cell Transcriptomic Analysis of Dental Pulp and Periodontal Ligament Stem Cells.</a> Single-Cell Transcriptomic Analysis of Dental Pulp and Periodontal Ligament Stem Cells. Journal of Dental Research. 2023;0(0). doi:10.1177/00220345231205283
+    <a href="https://journals.sagepub.com/doi/10.1177/00220345231205283">Single-Cell Transcriptomic Analysis of Dental Pulp and Periodontal Ligament Stem Cells.</a> Journal of Dental Research. 2023;0(0). doi:10.1177/00220345231205283
     </li> 
 
 <li>  Michael Z. Miao, Qian Peter Su, Yang Cui, Edward M. Bahnson, <b>Gang Li</b>, Menglin Wang, Yuchen Yang, John A. Collins1, Di Wu, Susan Chubinskaya, Brian O. Diekman, Richard F. Loeser (2023).
@@ -102,8 +110,6 @@ Note: * means co-first author.
 	<a href="https://www.biorxiv.org/content/10.1101/2022.12.20.521277v1">DeepGWAS to Enhance GWAS Signals for Neuropsychiatric Disorders via Deep Neural Network.</a>  <a href="https://github.com/GangLiTarheel/DeepGWAS"> [Code] </a>
   </li>
 
-<li>  Tangqi Fang, Yifeng Liu, Addie Woicik, Minsi Lu, Anupama Jha, Xiao Wang, <b>Gang Li</b>, Borislav Hristov, Zixuan Liu, Hanwen Xu, William Noble, Sheng Wang. (2024+, submitted). <a href="https://www.biorxiv.org/content/10.1101/2023.10.25.564065v2">Enhancing Hi-C contact matrices for loop detection with Capricorn, a multi-view diffusion model.</a>  <a href="https://github.com/CHNFTQ/Capricorn"> [Code]  </a>
- </li>
 
 <li>Ran Zhang, Chengxiang Qiu, Gala Filippova, <b>Gang Li</b>, Jay Shendure, Jean-Philippe Vert, Xinxian Deng, Christine M. Disteche, and William Stafford Noble. (2024+) 
 Multi-condition and multi-modal temporal profile inference during mouse embryonic development.
