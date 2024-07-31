@@ -3,9 +3,11 @@ permalink: /news/
 author_profile: true
 layout: archive
 ---
-2024.04 The research article, ["Interstitial Fluid Shear Stress Induces the Synthetic Phenotype Switching of VSMCs to Release Pro-calcified Extracellular Vesicles via EGFR-MAPK-KLF5 Pathway."](https://www.biorxiv.org/content/10.1101/2023.10.25.564065v2), that Gang co-authored, got published by Int J Biol Sci.
+2024.07 Gang was invited to give a talk, "Pseudotime analysis for time-series single-cell sequencing and imaging data", at [the 7th International Conference on Econometrics and Statistics(EcoStat 2024)](https://www.cmstatistics.org/RegistrationsV2/EcoSta2024/viewSubmission.php?in=621&token=sp568848s25pnp4sn454659o9ron4qs8). 
+<br>2024.07 The research article, ["Enhancing Hi-C contact matrices for loop detection with Capricorn, a multi-view diffusion model."](https://academic.oup.com/bioinformatics/article/40/Supplement_1/i471/7700867), that Gang co-authored, got published by Bioinformatics (2024 ISMB).
+<br>2024.07 Gang presented a seminar talk, "Allelic change surveyed by high throughput single-cell omics during mouse embryonic development", at UW 4D-Genome Meeting.
+<br>2024.04 The research article, ["Interstitial Fluid Shear Stress Induces the Synthetic Phenotype Switching of VSMCs to Release Pro-calcified Extracellular Vesicles via EGFR-MAPK-KLF5 Pathway."](https://www.biorxiv.org/content/10.1101/2023.10.25.564065v2), that Gang co-authored, got published by Int J Biol Sci.
 <br>2024.03 Gang presented a seminar talk, "allelic changes during mouse embryonic development", at UW 4D-Genome Meeting.
-<br>2024.03 The research article, ["Enhancing Hi-C contact matrices for loop detection with Capricorn, a multi-view diffusion model."](https://www.biorxiv.org/content/10.1101/2023.10.25.564065v2), that Gang co-authored, got accepted by 2024 ISMB.
 <br>2023.12 Gang was invited to gave a talk on, ["Deep Fiducial Inference"](http://www.cmstatistics.org/RegistrationsV2/CMStatistics2023/viewSubmission.php?in=1000&token=6p6q10n43prp32p39rs490ornon0o127), at 2023 Computational and Methodological Statistics (CMStatistics 2023).
 <br>2023.12 Gang presented a poster, "Pseudotime analysis and integration for time-series single-cell sequencing and imaging data", at 2023 4DN annual meeting.
 <br>2023.11 Gang's work, ["Pseudotime analysis for time-series single-cell sequencing and imaging data"](https://www.biorxiv.org/content/10.1101/2023.11.03.565575v1.article-info), has been accpeted as an oral talk at MLCB2023.

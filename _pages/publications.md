@@ -95,13 +95,20 @@ Note: * means co-first author.
 <ol>
 
 <li> <b>Li, G.</b>, Kim, H., Pendyala, S., Zhang, R., Disteche, C., Vert, J., Deng, X., Fowler, D., Noble, W.(2024+, submitted). 
-  <a href="https://www.biorxiv.org/content/10.1101/2023.11.03.565575v1.article-info">Pseudotime analysis and integration for time-series single-cell sequencing and imaging data. </a> <a href="https://github.com/Noble-Lab/Sceptic"> [Code] </a> </li>
+  <a href="https://www.biorxiv.org/content/10.1101/2023.11.03.565575v1.article-info">Pseudotime analysis and integration for time-series single-cell sequencing and imaging data. </a> 
+  <a href="https://github.com/Noble-Lab/Sceptic"> [Code] </a> 
+  <a href="https://www.youtube.com/watch?v=Ggv5k4Fubbs"> [Presentation] </a>
+  </li>
 
-<li> <b>Li, G.</b>, Qiu, C., Alavattam, K.,  Deng, X., Disteche, C., Noble, W. (2024+).
-    Allelic Change During Mouse Embroynic Development. </li>
+<li> <b>Li, G.*</b>, Eva K. Nichols*, Valentino E. Browning, Nicolas Longhi,  Conor K. Camplisson, Beliveau, B.,  Noble, W. (2024+). 
+	3D cell cycle stage classification model for DAPI-stained image data. 
+  <a href="https://github.com/Noble-Lab/cellcyclenet"> [Code] </a> 
+  </li>
 
-<li> <b>Li, G.</b>, Valentino E. Browning, Nicolas Longhi, Eva K. Nichols,   Fowler, D., Beliveau, B.,  Noble, W. (2024+). 
-	3D cell cycle stage classification model for DAPI-stained image data. </li>
+<li> <b>Li, G.</b>, Chengxiang Qiu, Kris G. Alavattam, Beth Martin, Josephine Lin, Riza M. Daza, Galina N. Filippova, Ran Zhang, Jay Shendure, Xinxian Deng, Disteche M. Christine, William S. Noble. (2024+).
+    Allelic change surveyed by high throughput single-cell omics during mouse embryonic development. </li>
+
+
 
 <li> <b>Li, G.</b>, Kim, H., Zhang, R., Pendyala, S., Papaxanthos, L., Deng, X., Disteche, C., Fowler, D., Vert, J., Noble, W.(2024+). 
 	Integrating imaging and sequencing data from visual cell sorting. </li>
@@ -112,7 +119,7 @@ Note: * means co-first author.
 
 
 <li>Ran Zhang, Chengxiang Qiu, Gala Filippova, <b>Gang Li</b>, Jay Shendure, Jean-Philippe Vert, Xinxian Deng, Christine M. Disteche, and William Stafford Noble. (2024+) 
-Multi-condition and multi-modal temporal profile inference during mouse embryonic development.
+<a href="https://pubmed.ncbi.nlm.nih.gov/38496477/">Multi-condition and multi-modal temporal profile inference during mouse embryonic development..</a>  
  </li>
 
 <li> J. Wen, Q. Sun, <b>G. Li</b>, X. Yang, J. Chen, Y. Shen, Y. Li.  (2024+).
