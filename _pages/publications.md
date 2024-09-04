@@ -18,6 +18,47 @@ You can also find my articles on my <u><a href="https://scholar.google.com/citat
   {% include archive-single.html %}
 {% endfor %}
 --->
+
+
+<h1>Work in progress</h1>
+<ol>
+
+<li> <b>Li, G.</b>, Kim, H., Pendyala, S., Zhang, R., Disteche, C., Vert, J., Deng, X., Fowler, D., Noble, W.(2024+, submitted). 
+  <a href="https://www.biorxiv.org/content/10.1101/2023.11.03.565575v1.article-info">Pseudotime analysis and integration for time-series single-cell sequencing and imaging data. </a> 
+  <a href="https://github.com/Noble-Lab/Sceptic"> [Code] </a> 
+  <a href="https://www.youtube.com/watch?v=Ggv5k4Fubbs"> [Presentation] </a>
+  </li>
+
+<li> <b>Li, G.*</b>, Eva K. Nichols*, Valentino E. Browning, Nicolas Longhi,  Conor K. Camplisson, Beliveau, B.,  Noble, W. (2024+). 
+	<a href="https://www.biorxiv.org/content/10.1101/2024.08.30.610553v2">Predicting cell cycle stage from 3D single-cell nuclear-stained images.  </a> 
+  <a href="https://github.com/Noble-Lab/cellcyclenet"> [Code] </a> 
+  </li>
+
+<li> <b>Li, G.</b>, Chengxiang Qiu, Xumeng Zhang, Kris G. Alavattam, Beth Martin, Josephine Lin, Riza M. Daza, Galina N. Filippova, Ran Zhang, Jay Shendure, Xinxian Deng, Disteche M. Christine, William S. Noble. (2024+).
+    Allelic change surveyed by high throughput single-cell omics during mouse embryonic development. </li>
+
+
+<li> <b>Li, G.</b>, Kim, H., Zhang, R., Pendyala, S., Papaxanthos, L., Deng, X., Disteche, C., Fowler, D., Vert, J., Noble, W.(2024+). 
+	Integrating imaging and sequencing data from visual cell sorting. </li>
+
+<li> <b>Li, G.*</b>, Jia, W.*, Chen, J., Sun, Q., Liu, W., Guan, W., Lai, B., He, X., Szatkiewicz, J., Sullivan, P. , Li, Y.(2024+, submitted). 
+	<a href="https://www.biorxiv.org/content/10.1101/2022.12.20.521277v1">DeepGWAS to Enhance GWAS Signals for Neuropsychiatric Disorders via Deep Neural Network.</a>  <a href="https://github.com/GangLiTarheel/DeepGWAS"> [Code] </a>
+  </li>
+
+
+<li>Ran Zhang, Chengxiang Qiu, Gala Filippova, <b>Gang Li</b>, Jay Shendure, Jean-Philippe Vert, Xinxian Deng, Christine M. Disteche, and William Stafford Noble. (2024+) 
+<a href="https://pubmed.ncbi.nlm.nih.gov/38496477/">Multi-condition and multi-modal temporal profile inference during mouse embryonic development.</a>  
+ </li>
+
+<li> Chenwei Tang, Quan Sun, Xinyue Zeng, Xiaoyu Yang, Fei Liu,  Jinying Zhao, <b>Gang Li</b>, Yin Shen, Bixiang Liu, Jia Wen, Yun Li  (2024+).
+  <a href="https://www.biorxiv.org/content/10.1101/2024.05.23.595514v1">Cell-type specific inference from bulk RNA-sequencing data by integrating single cell reference profiles via EPIC-unmix.</a>
+   </li>
+
+
+</ol>
+Note: * means co-first author.  
+
+<h1>Publications as leading author</h1>
 <ol>
 
 <li> <b>Li, G.*</b>, Luan, C.*, Zentz, S., Zelt, R., Roach, J., Liu, J., Qian, L., Li, Y., Yang, Y. (2021). <a href="https://www.mdpi.com/1422-0067/22/16/8943"> ExpressHeart: Web Portal to Visualize Transcriptome Profiles of Non-cardiomyocyte Cells.</a>  International Journal of Molecular Sciences, 2021; 22(16):8943.  <a href="http://shiny.bios.unc.edu/expressheart/"> [Web] </a> </li>
@@ -36,13 +77,7 @@ You can also find my articles on my <u><a href="https://scholar.google.com/citat
 
 </ol>
 
-Note: * means co-first author.  
 
-<h1>Dissertation</h1>
-<ul>
-
-<li> <a href="https://www.proquest.com/docview/2546056928/fulltextPDF/7C7D9A9F06404D64PQ">Coupling Machine Learning with Fiducial Inference, Genetics and Epigenetics</a>. Ann Arbor: The University of North Carolina at Chapel Hill; 2021. </li>
-</ul>
 
 <h1>Collaborative paper</h1>
 <ol>
@@ -91,39 +126,8 @@ Note: * means co-first author.
 
 </ol>
 
-<h1>In Preparation</h1>
-<ol>
+<h1>Dissertation</h1>
+<ul>
 
-<li> <b>Li, G.</b>, Kim, H., Pendyala, S., Zhang, R., Disteche, C., Vert, J., Deng, X., Fowler, D., Noble, W.(2024+, submitted). 
-  <a href="https://www.biorxiv.org/content/10.1101/2023.11.03.565575v1.article-info">Pseudotime analysis and integration for time-series single-cell sequencing and imaging data. </a> 
-  <a href="https://github.com/Noble-Lab/Sceptic"> [Code] </a> 
-  <a href="https://www.youtube.com/watch?v=Ggv5k4Fubbs"> [Presentation] </a>
-  </li>
-
-<li> <b>Li, G.*</b>, Eva K. Nichols*, Valentino E. Browning, Nicolas Longhi,  Conor K. Camplisson, Beliveau, B.,  Noble, W. (2024+). 
-	3D cell cycle stage classification model for DAPI-stained image data. 
-  <a href="https://github.com/Noble-Lab/cellcyclenet"> [Code] </a> 
-  </li>
-
-<li> <b>Li, G.</b>, Chengxiang Qiu, Kris G. Alavattam, Beth Martin, Josephine Lin, Riza M. Daza, Galina N. Filippova, Ran Zhang, Jay Shendure, Xinxian Deng, Disteche M. Christine, William S. Noble. (2024+).
-    Allelic change surveyed by high throughput single-cell omics during mouse embryonic development. </li>
-
-
-
-<li> <b>Li, G.</b>, Kim, H., Zhang, R., Pendyala, S., Papaxanthos, L., Deng, X., Disteche, C., Fowler, D., Vert, J., Noble, W.(2024+). 
-	Integrating imaging and sequencing data from visual cell sorting. </li>
-
-<li> Jia, W.*, <b>Li, G.*</b>, Chen, J., Sun, Q., Liu, W., Guan, W., Lai, B., He, X., Szatkiewicz, J., Sullivan, P. , Li, Y.(2024+, submitted). 
-	<a href="https://www.biorxiv.org/content/10.1101/2022.12.20.521277v1">DeepGWAS to Enhance GWAS Signals for Neuropsychiatric Disorders via Deep Neural Network.</a>  <a href="https://github.com/GangLiTarheel/DeepGWAS"> [Code] </a>
-  </li>
-
-
-<li>Ran Zhang, Chengxiang Qiu, Gala Filippova, <b>Gang Li</b>, Jay Shendure, Jean-Philippe Vert, Xinxian Deng, Christine M. Disteche, and William Stafford Noble. (2024+) 
-<a href="https://pubmed.ncbi.nlm.nih.gov/38496477/">Multi-condition and multi-modal temporal profile inference during mouse embryonic development..</a>  
- </li>
-
-<li> J. Wen, Q. Sun, <b>G. Li</b>, X. Yang, J. Chen, Y. Shen, Y. Li.  (2024+).
-  Deconvolution of bulk RNA-seq reveals cell-type specificity mechanism in Alzheimer’s disease. </li>
-
-
-</ol>
+<li> <a href="https://www.proquest.com/docview/2546056928/fulltextPDF/7C7D9A9F06404D64PQ">Coupling Machine Learning with Fiducial Inference, Genetics and Epigenetics</a>. Ann Arbor: The University of North Carolina at Chapel Hill; 2021. </li>
+</ul>
