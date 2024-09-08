@@ -1,7 +1,7 @@
 ---
 title: "Deep Fiducial Inference and Apporximate Fiducial Computation"
 collection: talks
-type: "Seminar"
+type: "Invited Talk"
 permalink: /talks/2023-12-16-CMStatistics-InvitedTalk
 date: 2023-12-16
 location: "Berlin"

@@ -1,7 +1,7 @@
 ---
 title: "Pseudotime analysis for time-series single-cell sequencing and imaging data"
 collection: talks
-type: "Poster"
+type: "Invited Talk"
 permalink: /talks/2024-07-18-EcoStat-InvitedTalk
 date: 2024-07-18
 location: "Beijing"

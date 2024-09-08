@@ -23,16 +23,19 @@ You can also find my articles on my <u><a href="https://scholar.google.com/citat
 <h1>Work in progress</h1>
 <ol>
 
+<li> <b>Li, G.*</b>, Eva K. Nichols*, Valentino E. Browning, Nicolas Longhi,  Conor K. Camplisson, Beliveau, B.,  Noble, W. (2024+). 
+	<a href="https://www.biorxiv.org/content/10.1101/2024.08.30.610553v2">Predicting cell cycle stage from 3D single-cell nuclear-stained images.  </a> 
+  <a href="https://github.com/Noble-Lab/cellcyclenet"> [Code] </a> 
+  <a href="https://www.youtube.com/watch?v=GflTIcI5inA"> [Presentation] </a>
+  </li>
+
 <li> <b>Li, G.</b>, Kim, H., Pendyala, S., Zhang, R., Disteche, C., Vert, J., Deng, X., Fowler, D., Noble, W.(2024+, submitted). 
   <a href="https://www.biorxiv.org/content/10.1101/2023.11.03.565575v1.article-info">Pseudotime analysis and integration for time-series single-cell sequencing and imaging data. </a> 
   <a href="https://github.com/Noble-Lab/Sceptic"> [Code] </a> 
   <a href="https://www.youtube.com/watch?v=Ggv5k4Fubbs"> [Presentation] </a>
   </li>
 
-<li> <b>Li, G.*</b>, Eva K. Nichols*, Valentino E. Browning, Nicolas Longhi,  Conor K. Camplisson, Beliveau, B.,  Noble, W. (2024+). 
-	<a href="https://www.biorxiv.org/content/10.1101/2024.08.30.610553v2">Predicting cell cycle stage from 3D single-cell nuclear-stained images.  </a> 
-  <a href="https://github.com/Noble-Lab/cellcyclenet"> [Code] </a> 
-  </li>
+
 
 <li> <b>Li, G.</b>, Chengxiang Qiu, Xumeng Zhang, Kris G. Alavattam, Beth Martin, Josephine Lin, Riza M. Daza, Galina N. Filippova, Ran Zhang, Jay Shendure, Xinxian Deng, Disteche M. Christine, William S. Noble. (2024+).
     Allelic change surveyed by high throughput single-cell omics during mouse embryonic development. </li>

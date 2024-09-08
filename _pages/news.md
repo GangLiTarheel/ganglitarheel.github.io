@@ -3,7 +3,8 @@ permalink: /news/
 author_profile: true
 layout: archive
 ---
-2024.07 Gang was invited to give a talk, "Pseudotime analysis for time-series single-cell sequencing and imaging data", at [the 7th International Conference on Econometrics and Statistics(EcoStat 2024)](https://www.cmstatistics.org/RegistrationsV2/EcoSta2024/viewSubmission.php?in=621&token=sp568848s25pnp4sn454659o9ron4qs8). 
+2024.09 Gang presented the work, ["Predicting cell cycle stage from 3D single-cell nuclear-stained images"](https://www.biorxiv.org/content/10.1101/2024.08.30.610553v2), as an oral talk at MLCB2024.
+<br>2024.07 Gang was invited to give a talk, "Pseudotime analysis for time-series single-cell sequencing and imaging data", at [the 7th International Conference on Econometrics and Statistics(EcoStat 2024)](https://www.cmstatistics.org/RegistrationsV2/EcoSta2024/viewSubmission.php?in=621&token=sp568848s25pnp4sn454659o9ron4qs8). 
 <br>2024.07 The research article, ["Enhancing Hi-C contact matrices for loop detection with Capricorn, a multi-view diffusion model."](https://academic.oup.com/bioinformatics/article/40/Supplement_1/i471/7700867), that Gang co-authored, got published by Bioinformatics (2024 ISMB).
 <br>2024.07 Gang presented a seminar talk, "Allelic change surveyed by high throughput single-cell omics during mouse embryonic development", at UW 4D-Genome Meeting.
 <br>2024.04 The research article, ["Interstitial Fluid Shear Stress Induces the Synthetic Phenotype Switching of VSMCs to Release Pro-calcified Extracellular Vesicles via EGFR-MAPK-KLF5 Pathway."](https://www.biorxiv.org/content/10.1101/2023.10.25.564065v2), that Gang co-authored, got published by Int J Biol Sci.
