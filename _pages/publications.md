@@ -26,7 +26,7 @@ You can also find my articles on my <u><a href="https://scholar.google.com/citat
 <li> <b>Li, G.*</b>, Eva K. Nichols*, Valentino E. Browning, Nicolas Longhi,  Conor K. Camplisson, Beliveau, B.,  Noble, W. (2024+). 
 	<a href="https://www.biorxiv.org/content/10.1101/2024.08.30.610553v2">Predicting cell cycle stage from 3D single-cell nuclear-stained images.  </a> 
   <a href="https://github.com/Noble-Lab/cellcyclenet"> [Code] </a> 
-  <a href="https://www.youtube.com/watch?v=GflTIcI5inA"> [Presentation] </a>
+  <a href="https://youtu.be/g_x7okd6tZs?si=TgBqGHftv2u8rm11"> [Presentation] </a>
   </li>
 
 <li> <b>Li, G.</b>, Kim, H., Pendyala, S., Zhang, R., Disteche, C., Vert, J., Deng, X., Fowler, D., Noble, W.(2024+, submitted). 
