@@ -3,8 +3,10 @@ permalink: /news/
 author_profile: true
 layout: archive
 ---
-2024.10 Gang presented the work, ["Allelic change surveyed by high throughput single-cell omics during mouse embryonic development"], as a poster at 2024 Fred Hutch retreat.
-<br>2024.09 Gang presented the work, ["Allelic change surveyed by high throughput single-cell omics during mouse embryonic development"], as a poster at 2024 CSHL Epigenetics & Chromatin meeting.
+2024.12 Gang presented the work, "Allelic change surveyed by high throughput single-cell omics during mouse embryonic development", as a poster at 2024 4DN annual meeting.
+<br>2024.11 Gang presented the work, "Unraveling temporal changes in development all at once", as an inviated talk at Academy of Mathematics and Systems Science (China), Nov 2024.
+<br>2024.10 Gang presented the work, "Allelic change surveyed by high throughput single-cell omics during mouse embryonic development", as a poster at 2024 Fred Hutch retreat.
+<br>2024.09 Gang presented the work, "Allelic change surveyed by high throughput single-cell omics during mouse embryonic development", as a poster at 2024 CSHL Epigenetics & Chromatin meeting.
 <br>2024.09 Gang presented the work, ["Predicting cell cycle stage from 3D single-cell nuclear-stained images"](https://www.biorxiv.org/content/10.1101/2024.08.30.610553v2), as a poster at UW GS retreat.
 <br>2024.09 Gang presented the work, ["Predicting cell cycle stage from 3D single-cell nuclear-stained images"](https://www.biorxiv.org/content/10.1101/2024.08.30.610553v2), as an oral talk at MLCB2024.
 <br>2024.07 Gang was invited to give a talk, "Pseudotime analysis for time-series single-cell sequencing and imaging data", at [the 7th International Conference on Econometrics and Statistics(EcoStat 2024)](https://www.cmstatistics.org/RegistrationsV2/EcoSta2024/viewSubmission.php?in=621&token=sp568848s25pnp4sn454659o9ron4qs8). 

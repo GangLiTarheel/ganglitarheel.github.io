@@ -12,6 +12,7 @@ redirect_from:
 Professional Experience
 ======
 * UW Data Science Postdotoral Fellowship, Univerity of Washington at Seattle, 2021 May - Current
+* UW GS postdoc representative, Univerity of Washington at Seattle, 2023 Aug - 2024 May
 
 
 Education
