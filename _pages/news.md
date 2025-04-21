@@ -3,7 +3,11 @@ permalink: /news/
 author_profile: true
 layout: archive
 ---
-2024.12 Gang presented the work, "Allelic change surveyed by high throughput single-cell omics during mouse embryonic development", as a poster at 2024 4DN annual meeting.
+2025.04 The research article, ["Predicting cell cycle stage from 3D single-cell nuclear-stained images."](https://www.life-science-alliance.org/content/8/6/e202403067), that Gang co-first-authored, got published by Life Science Alliance.
+<br>2025.03 Gang presented a seminar talk, "Allelic change surveyed by high throughput single-cell omics during mouse embryonic development", at UW 4D-Genome Meeting.
+<br>2025.02 Gang received scholarship from International Mammalian Genome Conference to present his work, "Allelic change surveyed by high throughput single-cell omics during mouse embryonic development".
+<br>2025.01 The research article, ["Endothelial cells under disturbed flow release extracellular vesicles to promote inflammatory polarization of macrophages and accelerate atherosclerosis."](https://link.springer.com/article/10.1186/s12915-025-02125-x), that Gang co-authored, got published by BMC Biology.
+<br>2024.12 Gang presented the work, "Allelic change surveyed by high throughput single-cell omics during mouse embryonic development", as a poster at 2024 4DN annual meeting.
 <br>2024.11 Gang presented the work, "Unraveling temporal changes in development all at once", as an inviated talk at Academy of Mathematics and Systems Science (China), Nov 2024.
 <br>2024.10 Gang presented the work, "Allelic change surveyed by high throughput single-cell omics during mouse embryonic development", as a poster at 2024 Fred Hutch retreat.
 <br>2024.09 Gang presented the work, "Allelic change surveyed by high throughput single-cell omics during mouse embryonic development", as a poster at 2024 CSHL Epigenetics & Chromatin meeting.

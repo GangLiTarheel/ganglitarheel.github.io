@@ -23,12 +23,6 @@ You can also find my articles on my <u><a href="https://scholar.google.com/citat
 <h1>Work in progress</h1>
 <ol>
 
-<li> <b>Li, G.*</b>, Eva K. Nichols*, Valentino E. Browning, Nicolas Longhi,  Conor K. Camplisson, Beliveau, B.,  Noble, W. (2024+). 
-	<a href="https://www.biorxiv.org/content/10.1101/2024.08.30.610553v2">Predicting cell cycle stage from 3D single-cell nuclear-stained images.  </a> 
-  <a href="https://github.com/Noble-Lab/cellcyclenet"> [Code] </a> 
-  <a href="https://youtu.be/g_x7okd6tZs?si=TgBqGHftv2u8rm11"> [Presentation] </a>
-  </li>
-
 <li> <b>Li, G.</b>, Kim, H., Pendyala, S., Zhang, R., Disteche, C., Vert, J., Deng, X., Fowler, D., Noble, W.(2024+, submitted). 
   <a href="https://www.biorxiv.org/content/10.1101/2023.11.03.565575v1.article-info">Pseudotime analysis and integration for time-series single-cell sequencing and imaging data. </a> 
   <a href="https://github.com/Noble-Lab/Sceptic"> [Code] </a> 
@@ -64,6 +58,12 @@ Note: * means co-first author.
 <h1>Publications as leading author</h1>
 <ol>
 
+<li> <b>Gang Li*</b>, Eva K. Nichols*, Valentino E. Browning, Nicolas Longhi, Madison Sanchez-Forman, Conor K. Camplisson, Beliveau, B.,  Noble, W. (2025). 
+	<a href="https://www.life-science-alliance.org/content/8/6/e202403067">Predicting cell cycle stage from 3D single-cell nuclear-stained images.  </a> Life Science Alliance Apr 2025, 8 (6) e202403067; DOI: 10.26508/lsa.202403067
+  <a href="https://github.com/Noble-Lab/cellcyclenet"> [Code] </a> 
+  <a href="https://youtu.be/g_x7okd6tZs?si=TgBqGHftv2u8rm11"> [Presentation] </a>
+  </li>
+
 <li> <b>Li, G.*</b>, Luan, C.*, Zentz, S., Zelt, R., Roach, J., Liu, J., Qian, L., Li, Y., Yang, Y. (2021). <a href="https://www.mdpi.com/1422-0067/22/16/8943"> ExpressHeart: Web Portal to Visualize Transcriptome Profiles of Non-cardiomyocyte Cells.</a>  International Journal of Molecular Sciences, 2021; 22(16):8943.  <a href="http://shiny.bios.unc.edu/expressheart/"> [Web] </a> </li>
 
 <li> <b>Li,  G.</b>,  Raffield,  L.,  Logue,  M.,  Miller,  M.W.,  Santos,  H.P.,  O’Shea,  M.,  Fry,  R. and Li,Y. (2020). <a href="https://doi.org/10.1080/15592294.2020.1827716"> CUE: CpG imPutation Ensemble for DNA Methylation Levels across Platforms.</a> Epigenetics, 1-11. <a href="https://github.com/GangLiTarheel/CUE"> [Code] </a>  </li>
@@ -85,7 +85,10 @@ Note: * means co-first author.
 <h1>Collaborative paper</h1>
 <ol>
 
-<li>  Tangqi Fang, Yifeng Liu, Addie Woicik, Minsi Lu, Anupama Jha, Xiao Wang, <b>Gang Li</b>, Borislav Hristov, Zixuan Liu, Hanwen Xu, William Noble, Sheng Wang. (2024 ISMB accepted). <a href="https://www.biorxiv.org/content/10.1101/2023.10.25.564065v2">Enhancing Hi-C contact matrices for loop detection with Capricorn, a multi-view diffusion model.</a>  <a href="https://github.com/CHNFTQ/Capricorn"> [Code]  </a>
+<li>  Zhe Hou, Li Deng, Fei Fang, Ting Zhao, Yaojia Zhang, <b>Gang Li</b>, Michael Z. Miao, Yongcang Zhang, Hongchi Yu, Xiaoheng Liu. <a href="https://link.springer.com/article/10.1186/s12915-025-02125-x">Endothelial cells under disturbed flow release extracellular vesicles to promote inflammatory polarization of macrophages and accelerate atherosclerosis.</a> BMC Biol 23, 20 (2025). https://doi.org/10.1186/s12915-025-02125-x
+ </li>
+
+<li>  Tangqi Fang, Yifeng Liu, Addie Woicik, Minsi Lu, Anupama Jha, Xiao Wang, <b>Gang Li</b>, Borislav Hristov, Zixuan Liu, Hanwen Xu, William Noble, Sheng Wang. <a href="https://academic.oup.com/bioinformatics/article/40/Supplement_1/i471/7700867">Enhancing Hi-C contact matrices for loop detection with Capricorn, a multi-view diffusion model.</a>  Bioinformatics, Volume 40, Issue Supplement_1, July 2024, Pages i471–i480, https://doi.org/10.1093/bioinformatics/btae211 <a href="https://github.com/CHNFTQ/Capricorn"> [Code]  </a>
  </li>
 
 <li>  Gao W, Gu K, Ma L, Yang F, Deng L, Zhang Y, Miao MZ, Li W, <b>Li G</b>, Qian H, Zhang Z, Wang G, Yu H, Liu X. (2024).
