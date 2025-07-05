@@ -8,15 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a UW Data Science Postdoctoral Fellow under the supervision of [Prof. Bill Noble](https://noble.gs.washington.edu/~wnoble/) at the University of Washington. My postdoctoral work focuses on developing machine learning methods for interpreting high-throughput genomic data sets of 3D genome architecture, with a particular emphasis on embryonic development in mouse. Currently I am working on the pseudotime analysis and cell cycle prediction of imaging and sequencing data.
+I am currently a co-principal investigator, working with [Prof. Sunney Xiaoliang Xie](https://sunneyxielab.org/sunneyxie), at Changping National Laboratory. My primary work focuses on integrating large language models (LLMs) for genomics with [FOODIE (FOOtprinting with DeamInasE)](https://sunneyxielab.org/research/scg/foodie) to investigate the role of transcription factors in gene regulation. 
+
+I was a UW Data Science Postdoctoral Fellow under the supervision of [Prof. Bill Noble](https://noble.gs.washington.edu/~wnoble/) at the University of Washington. My primary postdoctoral work focuses on developing machine learning methods for unraveling cellular dynamics, with a particular emphasis on embryonic development in mouse. See my work on the pseudotime analysis and cell cycle prediction of imaging and sequencing data.
 
 
-I got my Ph.D. in interdisciplinary statistics and operations research (INSTORE) with a machine learning concentration at UNC at Chapel Hill in 2021. I was fortunate to be advised by both [Prof. Jan Hannig](https://hannig.cloudapps.unc.edu/) and [Prof. Yun Li](https://yunliweb.its.unc.edu/). I obtained my M.S. in Statistics at UNC at Chapel Hill in 2017 and my B.S. in mathematics and applied mathematics at Beijing University of Posts & Telecommunications in 2016.
+I got my Ph.D. in interdisciplinary statistics and operations research (INSTORE) with a machine learning concentration at UNC at Chapel Hill in 2021. I was fortunate to be advised by both [Prof. Jan Hannig](https://hannig.cloudapps.unc.edu/) and [Prof. Yun Li](https://yunliweb.its.unc.edu/). My Phd work focuses on integration of genomics and epigenomics data and uncertainty quatification.
+I obtained my M.S. in Statistics at UNC at Chapel Hill in 2017 and my B.S. in mathematics and applied mathematics at Beijing University of Posts & Telecommunications in 2016.
 
 ## Research Interests:
 
 ### Computational Biology:
-Pseudotime analysis
+Footprinting
+<br>Pseudotime analysis
 <br> Cell cycle prediction form imaging data
 <br> Single-cell RNA sequencing analyses
 <br> Allelic expression and chromatin accessibility analyses
@@ -38,9 +42,8 @@ DNA methylation
 
 
 ## Contact:
-[Department of Genome Sciences](https://www.gs.washington.edu/) & [eScience Institute](https://escience.washington.edu/)
-<br> University of Washington, Seattle
-<br> Email: gangliuw@uw.edu 
+[Changping National Laboratory](https://www.cpl.ac.cn/en/)
+<br> Email: ganglicpl@cpl.ac.cn 
 
 
 

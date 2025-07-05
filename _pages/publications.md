@@ -23,8 +23,8 @@ You can also find my articles on my <u><a href="https://scholar.google.com/citat
 <h1>Work in progress</h1>
 <ol>
 
-<li> <b>Li, G.</b>, Kim, H., Pendyala, S., Zhang, R., Disteche, C., Vert, J., Deng, X., Fowler, D., Noble, W.(2024+, submitted). 
-  <a href="https://www.biorxiv.org/content/10.1101/2023.11.03.565575v1.article-info">Pseudotime analysis and integration for time-series single-cell sequencing and imaging data. </a> 
+<li> <b>Li, G.</b>, Kim, H., Pendyala, S., Zhang, R., Disteche, C., Vert, J., Deng, X., Fowler, D., Noble, W.(2025+, Accepted-in-principle by Genome Biology). 
+  <a href="https://www.biorxiv.org/content/10.1101/2023.11.03.565575v2">Pseudotime analysis and integration for time-series single-cell sequencing and imaging data. </a> 
   <a href="https://github.com/Noble-Lab/Sceptic"> [Code] </a> 
   <a href="https://www.youtube.com/watch?v=Ggv5k4Fubbs"> [Presentation] </a>
   </li>
