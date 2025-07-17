@@ -11,7 +11,7 @@ redirect_from:
 
 Professional Experience
 ======
-* Co-principal investigator, Changping National Laboratory, 2025 Jun - Current
+* Co-principal investigator, Changping Laboratory, 2025 Jun - Current
 * UW Data Science Postdotoral Fellowship, Univerity of Washington at Seattle, 2021 May - 2025 Jun
 * UW GS postdoc representative, Univerity of Washington at Seattle, 2023 Aug - 2024 May
 
