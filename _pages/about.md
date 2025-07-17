@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a co-principal investigator, working with [Prof. Sunney Xiaoliang Xie](https://sunneyxielab.org/sunneyxie), at Changping National Laboratory. My primary work focuses on integrating large language models (LLMs) for genomics with [FOODIE (FOOtprinting with DeamInasE)](https://sunneyxielab.org/research/scg/foodie) to investigate the role of transcription factors in gene regulation. 
+I am currently a co-principal investigator, working with [Prof. Sunney Xiaoliang Xie](https://sunneyxielab.org/sunneyxie), at Changping Laboratory. My primary work focuses on integrating large language models (LLMs) for genomics with [FOODIE (FOOtprinting with DeamInasE)](https://sunneyxielab.org/research/scg/foodie) to investigate the role of transcription factors in gene regulation. 
 
 I was a UW Data Science Postdoctoral Fellow under the supervision of [Prof. Bill Noble](https://noble.gs.washington.edu/~wnoble/) at the University of Washington. My primary postdoctoral work focuses on developing machine learning methods for unraveling cellular dynamics, with a particular emphasis on embryonic development in mouse. See my work on the pseudotime analysis and cell cycle prediction of imaging and sequencing data.
 
@@ -42,7 +42,7 @@ DNA methylation
 
 
 ## Contact:
-[Changping National Laboratory](https://www.cpl.ac.cn/en/)
+[Changping Laboratory](https://www.cpl.ac.cn/en/)
 <br> Email: ganglicpl@cpl.ac.cn 
 
 
