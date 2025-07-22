@@ -3,7 +3,7 @@ permalink: /news/
 author_profile: true
 layout: archive
 ---
-2025.07 The research article, ["Sceptic: pseudotime analysis for time-series single-cell sequencing and imaging data."](https://www.life-science-alliance.org/content/8/6/e202403067), that Gang first-authored, got published by Genome Biology.
+2025.07 The research article, ["Sceptic: pseudotime analysis for time-series single-cell sequencing and imaging data."](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-025-03679-3), that Gang first-authored, got published by Genome Biology.
 <br>2025.06 Gang has joined Changping Laboratory as a co-principal investigator, working with [Prof. Sunney Xiaoliang Xie](https://sunneyxielab.org/sunneyxie). 
 <br>2025.04 The research article, ["Predicting cell cycle stage from 3D single-cell nuclear-stained images."](https://www.life-science-alliance.org/content/8/6/e202403067), that Gang co-first-authored, got published by Life Science Alliance.
 <br>2025.03 Gang presented a seminar talk, "Allelic change surveyed by high throughput single-cell omics during mouse embryonic development", at UW 4D-Genome Meeting.
