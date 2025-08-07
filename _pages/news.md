@@ -5,7 +5,8 @@ layout: archive
 ---
 <h3>2025</h3>
 <ul>
-  <li><strong>2025.08</strong> The research article, <a href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-025-03679-3">"Multi-condition and multi-modal temporal profile inference during mouse embryonic development."</a>, that Gang co-authored, got accepted by <em>Genome Research</em>.</li>
+  <li><strong>2025.08</strong> The research article, <a href="https://pubmed.ncbi.nlm.nih.gov/38496477/">"Multi-condition and multi-modal temporal profile inference during mouse embryonic development."</a>, that Gang co-authored, got accepted by <em>Genome Research</em>.</li>
+  <li><strong>2025.07</strong> The research article, <a href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-025-03679-3">"Sceptic: pseudotime analysis for time-series single-cell sequencing and imaging data."</a>, that Gang first-authored, got published by <em>Genome Biology</em>.</li>
   <li><strong>2025.06</strong> Gang has joined Changping Laboratory as a co-principal investigator, working with <a href="https://sunneyxielab.org/sunneyxie">Prof. Sunney Xiaoliang Xie</a>.</li>
   <li><strong>2025.04</strong> The research article, <a href="https://www.life-science-alliance.org/content/8/6/e202403067">"Predicting cell cycle stage from 3D single-cell nuclear-stained images."</a>, that Gang co-first-authored, got published by <em>Life Science Alliance</em>.</li>
   <li><strong>2025.03</strong> Gang presented a seminar talk, "Allelic change surveyed by high throughput single-cell omics during mouse embryonic development", at UW 4D-Genome Meeting.</li>
