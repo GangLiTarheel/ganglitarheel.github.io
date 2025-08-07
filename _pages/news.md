@@ -74,7 +74,7 @@ layout: archive
 <li> 2021.03 Gang successfully passed the public oral defense.</li>
 <li> 2020.11 Gang gave two job talks at Univesity of Washington for postdoctoral positions.</li>
 <li> 2020.10 Le presented our work,["Leveraging deep learning methods developed for Hi-C data to enhance resolution of HiChIP/PLAC-seq data"](https://www.abstractsonline.com/pp8/\#!/9070/presentation/1822), as an E-poster at 2020 ASHG virtual meeting. Our abstract has been selected as the reviewer's choice award(~10%). Congrats, Le!</li>
-<li> 2020.10 Gang presented an E-poster on ["DeepGWAS to Enhance GWAS Signals for Neuropsychiatric Disorders via Deep Neural Network"](https://www.abstractsonline.com/pp8/\#!/9070/presentation/3193) at 2020 ASHG virtual meeting. Our abstract has been selected as the reviewer's choice award(~10%).
+<li> 2020.10 Gang presented an E-poster on ["DeepGWAS to Enhance GWAS Signals for Neuropsychiatric Disorders via Deep Neural Network"](https://www.abstractsonline.com/pp8/\#!/9070/presentation/3193) at 2020 ASHG virtual meeting. Our abstract has been selected as the reviewer's choice award(~10%).</li>
 <li> 2020.09 The research article, ["CUE: CpG impUtation Ensemble for DNA Methylation Levels Across the Human Methylation450 (HM450) and EPIC (HM850) BeadChip Platforms"](https://doi.org/10.1080/15592294.2020.1827716), that Gang first authored, got accepted by Epigenetics.</li>
 <li> 2020.08 Gang gave a talk on SMNN at the 2020 JSM (Virtual Meeting due to COVID-19).</li>
 <li> 2020.07 The research article, ["Deep Fiducial Inference"](https://doi.org/10.1002/sta4.308), that Gang first authored, got accepted by STAT.</li>
@@ -84,7 +84,7 @@ layout: archive
 <li> 2020.02 Gang received Graduate Student Transportation Award from UNC at Chapel Hill.</li>
 <li> 2020.02 Gang would give a talk at 2020 Conference on Statistical Practice in Sacramento, CA.</li>
 <li> 2019.12 The review article, ["Dropout Imputation and Batch Effect Correction for Single-Cell RNA-seq Data"](https://journals.lww.com/jbioxresearch/Fulltext/2019/12000/Dropout_imputation_and_batch_effect_correction_for.4.aspx), that Gang first authored, got accepted by Journal of Bio-X Research. </li>
-<li> 2019.12 Gang passed the preliminary oral defense and became a formal Ph.D. candidate!
+<li> 2019.12 Gang passed the preliminary oral defense and became a formal Ph.D. candidate!</li>
 <li> 2019.10 Yuchen gave an oral presentation of our joint work at the 2019 ASHG meeting in Houston, TX. </li>
 <li> 2019.10 Gang presented a poster at the 2019 ASHG meeting in Houston, TX.</li>
 <li> 2019.08 Gang completed the Foundation of Data Science (FDS) Summer School 2019 at the Georgia Institute of Technology (Lodging funded by the summer school). </li>
