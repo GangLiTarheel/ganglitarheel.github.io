@@ -5,13 +5,13 @@ layout: archive
 ---
 <h3>2025</h3>
 <ul>
-<li>2025.08 The research article, ["Multi-condition and multi-modal temporal profile inference during mouse embryonic development."](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-025-03679-3), that Gang co-authored, got accepted by Genome Research.
-<li>2025.07 The research article, ["Sceptic: pseudotime analysis for time-series single-cell sequencing and imaging data."](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-025-03679-3), that Gang first-authored, got published by Genome Biology.
-<li>2025.06 Gang has joined Changping Laboratory as a co-principal investigator, working with [Prof. Sunney Xiaoliang Xie](https://sunneyxielab.org/sunneyxie). 
-<li>2025.04 The research article, ["Predicting cell cycle stage from 3D single-cell nuclear-stained images."](https://www.life-science-alliance.org/content/8/6/e202403067), that Gang co-first-authored, got published by Life Science Alliance.
-<li>2025.03 Gang presented a seminar talk, "Allelic change surveyed by high throughput single-cell omics during mouse embryonic development", at UW 4D-Genome Meeting.
-<li>2025.02 Gang received scholarship from International Mammalian Genome Conference to present his work, "Allelic change surveyed by high throughput single-cell omics during mouse embryonic development".
-<li>2025.01 The research article, ["Endothelial cells under disturbed flow release extracellular vesicles to promote inflammatory polarization of macrophages and accelerate atherosclerosis."](https://link.springer.com/article/10.1186/s12915-025-02125-x), that Gang co-authored, got published by BMC Biology.
+<li>2025.08 The research article, ["Multi-condition and multi-modal temporal profile inference during mouse embryonic development."](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-025-03679-3), that Gang co-authored, got accepted by Genome Research.</li>
+<li>2025.07 The research article, ["Sceptic: pseudotime analysis for time-series single-cell sequencing and imaging data."](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-025-03679-3), that Gang first-authored, got published by Genome Biology.</li>
+<li>2025.06 Gang has joined Changping Laboratory as a co-principal investigator, working with [Prof. Sunney Xiaoliang Xie](https://sunneyxielab.org/sunneyxie). </li>
+<li>2025.04 The research article, ["Predicting cell cycle stage from 3D single-cell nuclear-stained images."](https://www.life-science-alliance.org/content/8/6/e202403067), that Gang co-first-authored, got published by Life Science Alliance.</li>
+<li>2025.03 Gang presented a seminar talk, "Allelic change surveyed by high throughput single-cell omics during mouse embryonic development", at UW 4D-Genome Meeting.</li>
+<li>2025.02 Gang received scholarship from International Mammalian Genome Conference to present his work, "Allelic change surveyed by high throughput single-cell omics during mouse embryonic development".</li>
+<li>2025.01 The research article, ["Endothelial cells under disturbed flow release extracellular vesicles to promote inflammatory polarization of macrophages and accelerate atherosclerosis."](https://link.springer.com/article/10.1186/s12915-025-02125-x), that Gang co-authored, got published by BMC Biology.</li>
 </ul>
 <h3>2024</h3>
 <ul>
@@ -52,19 +52,19 @@ layout: archive
 <li>2022.08 Our work, ["Deconvolution of bulk RNA-seq reveals cell-type specificity mechanism in Alzheimer’s disease."](https://eppro01.ativ.me/appinfo.php?page=IntHtml&project=ASHG22&id=744&server=eppro01.ativ.me), is accepted as an oral talk (15 mins) for 2022 ASHG meeting. Congrats, Jia and Quan!</li>
 <li>2022.06 Gang was invited to give a talk, "Integration of imaging and sequencing data in the context of visual cell sorting", at The 5th International Conference on Econometrics and Statistics(EcoStat 2022). </li>
 <li>2022.05 Gang was invited to give a talk, "Integration of imaging and sequencing data in the context of visual cell sorting", at 2022 HSPH Program in Quantitative Genomics Seminar. </li>
-<li>2022.04 Gang gave a talk, "Integration of imaging and sequencing data in the context of visual cell sorting", at UW GS postdoctoral seminar. 
+<li>2022.04 Gang gave a talk, "Integration of imaging and sequencing data in the context of visual cell sorting", at UW GS postdoctoral seminar.</li> 
 <li>2022.04 The research article, ["Identification of potentially functional circRNAs and prediction of circRNA-miRNA-mRNA regulatory network in periodontitis: bridging the gap between bioinformatics and clinical needs"](https://onlinelibrary.wiley.com/doi/10.1111/jre.12989), that Gang co-authored, got published by Journal of Periodontal Research.</li>
 <li>2022.03 The research article, ["A systematic evaluation of Hi-C data enhancement methods for enhancing PLAC-seq and HiChIP data."](https://doi.org/10.1093/bib/bbac145), that Gang co-authored, got accepted by Briefings in Bioinformatics.</li>
 </ul>
 <h3>2021</h3>
 <ul>
-<li>2021.12 Gang presented a poster, "Integration of imaging and sequencing data in the context of visual cell sorting", at 2021 4DN Annual Meeting. 
+<li>2021.12 Gang presented a poster, "Integration of imaging and sequencing data in the context of visual cell sorting", at 2021 4DN Annual Meeting.</li> 
 <li>2021.10 Jia presented our work, ["Genome-wide association study of coronary heart disease in chronic kidney disease: the Chronic Renal Insufficiency Cohort (CRIC) study."](https://eventpilotadmin.com/web/page.php?page=Session&project=ASHG21&id=P2191), as an E-poster at 2021 ASHG virtual meeting. Congrats, Jia!</li>
 <li>2021.09 The research article, ["Parallel characterization of cis-regulatory elements for multiple genes using CRISPRpath"](https://www.science.org/doi/10.1126/sciadv.abi4360), that Gang co-authored, got published in Science Advances.</li>
 <li>2021.08 The research article, ["ExpressHeart: Web Portal to Visualize Transcriptome Profiles of Non-cardiomyocyte Cells"](https://www.mdpi.com/1422-0067/22/16/8943), that Gang co-first-authored, got published in International Journal of Molecular Sciences.</li>
 <li> 2021.07 The book chapter ["Machine Learning and Deep Learning in Genetics and Genomics"](https://link.springer.com/chapter/10.1007/978-3-030-71881-7_13), that Gang co-authored, got published in the book ["Machine Learning in Dentistry"](https://link.springer.com/book/10.1007/978-3-030-71881-7), Springer, Cham. </li>
 <li> 2021.06 Gang's dissertation, ["Coupling Machine Learning with Fiducial Inference, Genetics and Epigenetics"](https://www.proquest.com/docview/2546056928/abstract/12FD502C3E444B0FPQ), got published.</li>
-<li> 2021.06 Gang gave a seminar talk, "Integration of imaging and sequencing data in the context of visual cell sorting", at UW 4D-Genome Meeting. 
+<li> 2021.06 Gang gave a seminar talk, "Integration of imaging and sequencing data in the context of visual cell sorting", at UW 4D-Genome Meeting.</li> 
 <li> 2021.05 Gang joined Bill Noble's lab at Univerity of Washtington as UW Data Science Postdoctoral Fellow.</li>
 </ul>
 <h3>Phd</h3>
