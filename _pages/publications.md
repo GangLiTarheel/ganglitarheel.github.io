@@ -24,24 +24,20 @@ You can also find my articles on my <u><a href="https://scholar.google.com/citat
 <ol>
 
 
-<li> <b>Li, G.</b>, Chengxiang Qiu, Xumeng Zhang, Kris G. Alavattam, Beth Martin, Josephine Lin, Riza M. Daza, Galina N. Filippova, Ran Zhang, Jay Shendure, Xinxian Deng, Disteche M. Christine, William S. Noble. (2024+).
+<li> <b>Li, G.</b>, Chengxiang Qiu, Xumeng Zhang, Kris G. Alavattam, Beth Martin, Josephine Lin, Riza M. Daza, Galina N. Filippova, Ran Zhang, Jay Shendure, Xinxian Deng, Disteche M. Christine, William S. Noble. (2025+).
     Allelic change surveyed by high throughput single-cell omics during mouse embryonic development. </li>
 
 
-<li> <b>Li, G.</b>, Kim, H., Zhang, R., Pendyala, S., Papaxanthos, L., Deng, X., Disteche, C., Fowler, D., Vert, J., Noble, W.(2024+). 
+<li> <b>Li, G.</b>, Kim, H., Zhang, R., Pendyala, S., Papaxanthos, L., Deng, X., Disteche, C., Fowler, D., Vert, J., Noble, W.(2025+). 
 	Integrating imaging and sequencing data from visual cell sorting. </li>
 
-<li> <b>Li, G.*</b>, Jia, W.*, Chen, J., Sun, Q., Liu, W., Guan, W., Lai, B., He, X., Szatkiewicz, J., Sullivan, P. , Li, Y.(2024+, submitted). 
+<li> <b>Li, G.*</b>, Jia, W.*, Chen, J., Sun, Q., Liu, W., Guan, W., Lai, B., He, X., Szatkiewicz, J., Sullivan, P. , Li, Y.(2025+, submitted). 
 	<a href="https://www.biorxiv.org/content/10.1101/2022.12.20.521277v1">DeepGWAS to Enhance GWAS Signals for Neuropsychiatric Disorders via Deep Neural Network.</a>  <a href="https://github.com/GangLiTarheel/DeepGWAS"> [Code] </a>
   </li>
 
 
-<li>Ran Zhang, Chengxiang Qiu, Gala Filippova, <b>Gang Li</b>, Jay Shendure, Jean-Philippe Vert, Xinxian Deng, Christine M. Disteche, and William Stafford Noble. (2024+) 
-<a href="https://pubmed.ncbi.nlm.nih.gov/38496477/">Multi-condition and multi-modal temporal profile inference during mouse embryonic development.</a>  
- </li>
-
-<li> Chenwei Tang, Quan Sun, Xinyue Zeng, Xiaoyu Yang, Fei Liu,  Jinying Zhao, <b>Gang Li</b>, Yin Shen, Bixiang Liu, Jia Wen, Yun Li  (2024+).
-  <a href="https://www.biorxiv.org/content/10.1101/2024.05.23.595514v1">Cell-type specific inference from bulk RNA-sequencing data by integrating single cell reference profiles via EPIC-unmix.</a>
+<li> Chenwei Tang, Quan Sun, Xinyue Zeng, <b>Gang Li</b>, Xiaoyu Yang, Fei Liu,  Jinying Zhao, Yin Shen, Bixiang Liu, Jia Wen, Yun Li  (2025+).
+  <a href="https://www.researchsquare.com/article/rs-4979032/v1">Cell-type specific inference from bulk RNA-sequencing data by integrating single cell reference profiles via EPIC-unmix.</a>
    </li>
 
 
@@ -83,6 +79,10 @@ Note: * means co-first author.
 
 <h1>Collaborative paper</h1>
 <ol>
+
+<li>Ran Zhang, Chengxiang Qiu, Gala Filippova, <b>Gang Li</b>, Jay Shendure, Jean-Philippe Vert, Xinxian Deng, Christine M. Disteche, and William Stafford Noble. (2025+) 
+<a href="https://pubmed.ncbi.nlm.nih.gov/38496477/">Multi-condition and multi-modal temporal profile inference during mouse embryonic development.</a>  Genome Research.
+ </li>
 
 <li>  Zhe Hou, Li Deng, Fei Fang, Ting Zhao, Yaojia Zhang, <b>Gang Li</b>, Michael Z. Miao, Yongcang Zhang, Hongchi Yu, Xiaoheng Liu. <a href="https://link.springer.com/article/10.1186/s12915-025-02125-x">Endothelial cells under disturbed flow release extracellular vesicles to promote inflammatory polarization of macrophages and accelerate atherosclerosis.</a> BMC Biol 23, 20 (2025). https://doi.org/10.1186/s12915-025-02125-x
  </li>
