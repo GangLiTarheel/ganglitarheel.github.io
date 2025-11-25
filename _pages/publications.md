@@ -77,7 +77,7 @@ Note: * means co-first author.
 <h1>Collaborative paper</h1>
 <ol>
 
-<li> Tang, Chenwei, Quan Sun, Xinyue Zeng, <b>Gang Li</b>, Xiaoyu Yang, Fei Liu, Jinying Zhao et al. <a href="https://www.biorxiv.org/content/10.1101/2024.05.23.595514v1">"Cell type-specific inference from bulk RNA-sequencing data by integrating single-cell reference profiles via EPIC-unmix."</a> Genome Biology 26, no. 1 (2025): 395. </li>
+<li> Tang, Chenwei, Quan Sun, Xinyue Zeng, <b>Gang Li</b>, Xiaoyu Yang, Fei Liu, Jinying Zhao et al. <a href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-025-03847-5">"Cell type-specific inference from bulk RNA-sequencing data by integrating single-cell reference profiles via EPIC-unmix."</a> Genome Biology 26, no. 1 (2025): 395. </li>
 
 <li>Zhang, Ran, Chengxiang Qiu, Galina N. Filippova, <b>Gang Li</b>, Jay Shendure, Jean-Philippe Vert, Xinxian Deng, William Stafford Noble, and Christine M. Disteche.
 <a href="https://www.genome.org/cgi/doi/10.1101/gr.279997.124">Multi-condition and multi-modal temporal profile inference during mouse embryonic development.</a>  Genome Research 35, no. 10 (2025): 2339-2351.</li>
